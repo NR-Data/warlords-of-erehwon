@@ -1,0 +1,4338 @@
+{
+  "catalogue": {
+    "name": "Monsters",
+    "id": "ce73-81f1-52bf-8170",
+    "authorContact": "https://github.com/BSData/warlords-of-erehwon/issues",
+    "authorName": "3dwargamer & LeadAddict",
+    "authorUrl": "https://github.com/BSData/warlords-of-erehwon/",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "cffa-cd51-33d5-b2c6",
+    "gameSystemRevision": 1,
+    "library": false,
+    "revision": 4,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "Basilisk [158/178/198 pts]",
+        "id": "359d-f1ed-6ac3-3016",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c7ea-f805-9726-6682",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chimera [158/178/198 pts]",
+        "id": "a95f-fd53-c1f1-9ece",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ba39-ac09-15fb-f789",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Cockatrice [157/177/197 pts]",
+        "id": "147a-2049-7124-7bb9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b01e-a8c7-82df-f6d8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Cyclops [150/170/190 pts]",
+        "id": "0fa2-dce6-3ebc-7f3a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5b3b-b3f4-bbba-7609",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dragon [380/410/440 pts]",
+        "id": "8b0f-cbcb-a523-9cc7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6617-5ad0-1f45-cbe3",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Ghouls [85/95/105 pts]",
+        "id": "350e-39f4-3cf9-3ca3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3ff4-044a-e595-a1b7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Giant [253/283/313 pts]",
+        "id": "d02b-01be-52e6-0f25",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4fea-a33c-4fc3-b70b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Giant Rats [46/56/66 pts]",
+        "id": "27a1-1550-8ae6-3811",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d456-6e73-d1fc-5db4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Giant Scorpions [57/67/77 pts]",
+        "id": "5e84-3e9b-9e23-b82b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "452a-2a19-4531-92b8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Giant Spiders [50/60/70 pts]",
+        "id": "8e0d-a554-dffd-0dd7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "051b-44ef-ec3d-a1c1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gigantic Spider [218/238/258 pts]",
+        "id": "5500-abff-737c-1edc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2846-5918-fd84-7e29",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Golem [64 pts]",
+        "id": "4944-1479-e9a6-6dc0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7835-8a79-e484-397e",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Griffin [144/164/184 pts]",
+        "id": "3701-ab11-e3ad-81ed",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b90a-e799-9047-9183",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hippogriff [138/159/179 pts]",
+        "id": "2af6-5461-3aa3-eb71",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "30d1-8869-3361-d27b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hydra [182/202/222 pts]",
+        "id": "a17a-bc20-6e41-b99d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1826-be4d-e802-d903",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Manticore [158/178/198 pts]",
+        "id": "e0bb-7e07-5963-276e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3c5b-7264-8586-c81c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Ogres [28/38/48 pts]",
+        "id": "d1fa-d99c-789d-8eca",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "bdbd-2e9c-63ce-9620",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Wild Swarms [75 pts]",
+        "id": "e174-dc08-1053-9747",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "71af-c82c-450e-2b37",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Wyvern",
+        "id": "95f7-88b7-4eca-6692",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5943-a398-3d77-7af7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Allied Giant Treeman [204 pts]",
+        "id": "acfa-d375-18ee-4a38",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "853f-a790-4f4e-0d98",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Allied Treemen/Dryads",
+        "id": "78ae-a590-2be5-3819",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6491-3e79-cfd5-76db",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Trolls [105/115 pts]",
+        "id": "4a48-cf53-e54a-9bb7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "45c6-60cf-f892-7efa",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Cave Bear",
+        "id": "44c9-c255-bec3-accb",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "cfc8-c933-eeab-5e21",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Brontosaur [115/135 pts]",
+        "id": "d2e3-0d90-ffee-90ce",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "903f-9d10-4831-bf0f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tyrannosaur [188/208 pts]",
+        "id": "37dd-0d22-2e41-b875",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4f7e-f547-4d5a-8c7c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Horned Dinosaur [122/142 pts]",
+        "id": "36af-b9c1-6ef3-4c97",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3aff-bbec-a820-725d",
+        "type": "selectionEntry"
+      }
+    ],
+    "sharedProfiles": [
+      {
+        "name": "Basilisk",
+        "id": "9f01-a520-920a-bd90",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "4", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "10", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV4, Baleful Glare, Dread", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Chimera",
+        "id": "2dbb-4ea1-5f93-dce3",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "4", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "9", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD 2, 4xHtH SV4, 1xHtH SV10 Venomous, 3xFlaming Breath SV3 Fire, Dread", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Cockatrice",
+        "id": "0184-c48d-2234-cbf7",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "4", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "7", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "10", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH Attacks SV3, Baleful Glare, Dread, Flies", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Cyclops",
+        "id": "fdd9-726d-86fe-ec2d",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "4", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV4, Dread", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Rock - Hurled by a Monstrosity",
+        "id": "04da-20b3-5a4a-f90c",
+        "hidden": false,
+        "typeId": "2c2c-0dd3-c341-b2ef",
+        "typeName": "Weapon Profile Ranged",
+        "characteristics": [
+          {"name": "Range Short", "$text": "10-20\"", "typeId": "388b-c232-987e-c292"},
+          {"name": "Range Long", "$text": "-", "typeId": "93c3-2707-51ef-b304"},
+          {"name": "Range Extreme", "$text": "-", "typeId": "49d3-642a-08be-5817"},
+          {"name": "Strike Value", "$text": "6", "typeId": "47c7-dced-6203-6b76"},
+          {"name": "Special Rules", "$text": "Overhead, Fire Order to Shoot, D6 hits", "typeId": "83b9-69ea-35a1-5148"}
+        ]
+      },
+      {
+        "name": "Dragon",
+        "id": "51fb-1d59-eff1-b671",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "4", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "15", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "9", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD3, Fast 6, 7xHtH SV6, 3xFlaming Breath SV3 Fire, Dread, Terror, Flies", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Ghouls",
+        "id": "7b72-6afa-c85b-64c1",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "5", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "2xHtH SV1", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Giant",
+        "id": "e5bb-3c2b-9a60-9c05",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "13", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD3, 5xHtH SV5, Dread, Terror, Blundering", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Giant Rats",
+        "id": "cd05-6e8f-63cf-f6ad",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "4", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "4", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "2xHtH SV1 Venomous", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Giant Scorpions",
+        "id": "9cd1-3fa7-9244-5170",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "2xHtH SV2, 1xHtH SV10, Venomous, Wound", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Giant Spiders",
+        "id": "70ab-0608-068e-a498",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "9", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "3xHtH SV3, Wound", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Gigantic Spider",
+        "id": "ca3a-b6cb-8358-d7d9",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "13", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "9", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 6xHtH SV6, Dread, Terror", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Golem",
+        "id": "ec10-cee9-9e3f-9783",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "3", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "7", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "13", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "10", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough, Slow 4, 3xHtH SV2, Dread", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Griffin",
+        "id": "61f2-9f86-a3d8-d5e8",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "10", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV3, Dread, Savage, Fast 6, Flies", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Hippogriff",
+        "id": "7ea6-624e-3017-99b2",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "10", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV3, Dread, Fast 6, Flies", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Hydra",
+        "id": "6e13-9d18-f7c2-d272",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "9", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 9xHtH SV2, Stubborn, Dread, Regenerate", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Manticore",
+        "id": "3bd1-e1ac-0073-8b2f",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV4, Beastly breath, Dread", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Ogres",
+        "id": "c57c-29b1-6dce-2cb0",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, 2xHtH, Frenzied Charge", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Ogres in Light Armour",
+        "id": "4c9f-6aab-32b0-d91d",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8(9)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, 2xHtH, Frenzied Charge", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Wild Ratswarm",
+        "id": "e8bd-7b95-1cce-09a4",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "4", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "5", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "3xHtH SV1 Venomous", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Wild Batswarm",
+        "id": "3476-9800-ad47-8c84",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "4", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "5", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "3xHtH SV1, Flies, Fast 7", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Wild Spiderswarm",
+        "id": "ed6e-31c3-36b2-839f",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "4", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "5", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "4xHtH SV0", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Wild Frogswarm",
+        "id": "1611-c370-3e68-d00a",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "4", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "5", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "3xHtH SV0, Dread", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Wild Beeswarm",
+        "id": "5319-4ee6-a650-6292",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "4", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "5", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "3xHtH SV0, Venomous, Flies", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Wild Serpentswarm",
+        "id": "bb99-778c-b54b-3569",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "4", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "5", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "4xHtH SV0, Venomous, Slow 4", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Wyvern ",
+        "id": "c844-35e2-768e-50f8",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "10", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV3 Venomous, Beastly Breath, Dread, Flies", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Giant Treeman",
+        "id": "8131-c371-7d0a-189b",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "2", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV4, Blundering, Slow 4, Woodsman, Stubborn, Tough, Dread", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Treeman/Dryad",
+        "id": "e5f9-9f0b-73eb-76e7",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "2", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, 2xHtH SV3, Blundering, Slow 4, Woodsman, Stubborn, Tough", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Trolls",
+        "id": "5ff3-ad2b-6639-78da",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "4", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "7", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "4", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, 3xHtH SV2, Chunder, Regenerate", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Cave Bear",
+        "id": "da16-d143-b468-26c3",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "2", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, 3xHtH SV3, Irresistable Charge, Frenzied Charge, Wound", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Brontosaur",
+        "id": "5ca4-7d22-6678-4dc5",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "4", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV3, Blundering, Stampede", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Tyrannosaur",
+        "id": "c74b-e0c7-6a3d-bc2a",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "7", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV5, Dread, Terror, Irresistable Charge", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Horned Dinosaur",
+        "id": "68aa-6640-b9da-6ee0",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 3xHtH SV5, Dread, Stampede, Irresistable Charge", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Manticore with Stinging Tail",
+        "id": "c9d3-d13d-232c-c354",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV4, Beastly breath, Dread, 1xHtH SV10 Venomous", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Ogre Chieftain",
+        "id": "46fb-de84-d662-097d",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough 1, Large, 2xHtH, Frenzied Charge", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Ogre Chieftain in Light Armour",
+        "id": "f004-a3ca-4a39-903d",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8(9)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough 1, Large, 2xHtH, Frenzied Charge", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      }
+    ],
+    "sharedRules": [
+      {
+        "name": "Choking Attacks",
+        "id": "7bb1-5921-1762-f0fe",
+        "description": "A target hit by a choking attack either from shooting or HtH gets no armour bonus or cover bonus to its RES.",
+        "hidden": false
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Basilisk",
+        "id": "c7ea-f805-9726-6682",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "1bff-1c68-dd0b-e113", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Large", "id": "b50b-63c0-d15b-5fae", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Baleful Glare", "id": "94e4-ce18-68ed-b342", "hidden": false, "targetId": "9855-31c9-3745-714d", "type": "rule"},
+          {"name": "Dread", "id": "6b20-a4aa-fd9f-8f91", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Basilisk", "id": "8aa3-a9d1-fbb3-1524", "hidden": false, "targetId": "9f01-a520-920a-bd90", "type": "profile"},
+          {"name": "MoD2", "id": "cb0e-2080-83ed-1788", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "5ceb-ccb3-bf30-8ef0",
+            "collective": false,
+            "defaultSelectionEntryId": "c5a7-8e57-be4d-8c80",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "f030-a978-95d2-b018",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "12c9-38f4-e6c0-6a2c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Basilisk",
+                "id": "c5a7-8e57-be4d-8c80",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 158}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "9419-f85d-5d64-cf38", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Basilisk",
+                "id": "f3a3-9d1c-83ee-c624",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 178}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "5ffe-1283-5ebc-4a45", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Basilisk",
+                "id": "1e81-3fb8-f486-f5a1",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 198}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "167f-5a3c-c3df-7c9d", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chimera",
+        "id": "ba39-ac09-15fb-f789",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "fae9-3dc9-bcea-0221", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Large", "id": "007f-9486-f0f3-1f73", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "2304-6feb-8524-6d85", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Chimera", "id": "cada-7de5-03db-a170", "hidden": false, "targetId": "2dbb-4ea1-5f93-dce3", "type": "profile"},
+          {"name": "Flaming Breath", "id": "6c00-7ceb-91f2-a6fc", "hidden": false, "targetId": "37e8-d658-01a9-6916", "type": "rule"},
+          {"name": "Fire", "id": "5f75-c5bf-dd04-b0c8", "hidden": false, "targetId": "b61d-3471-1ce6-6878", "type": "rule"},
+          {"name": "MoD2", "id": "2304-006a-75e9-35e5", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"},
+          {"name": "Venomous", "id": "0c8a-5ad0-4053-448d", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "c1cd-beae-0714-4d9b",
+            "collective": false,
+            "defaultSelectionEntryId": "3a95-41d5-222d-e969",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "fb6c-3e4e-4d7d-2107",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "1536-eedf-05a0-f36a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Chimera",
+                "id": "3a95-41d5-222d-e969",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 158}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "af33-51b6-0e01-2eb8", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Chimera",
+                "id": "8808-6e3a-105b-97fd",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 178}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "7f7b-6155-d6eb-6e3b", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Chimera",
+                "id": "18bd-1699-eadd-7ec2",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 198}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "2ea7-c1ed-93cd-7e64", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Wings Upgrade",
+            "id": "30b7-95e9-ce1a-0fa0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Flying",
+                "id": "d222-327c-207d-8c57",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "04db-3a96-0978-b10a",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Flies", "id": "2abf-8029-5e8b-6f87", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cockatrice",
+        "id": "b01e-a8c7-82df-f6d8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "3e0d-83f5-1959-b5bc", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Large", "id": "e451-e901-db8e-53bf", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "3268-1191-9ede-35f1", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Flies", "id": "65ea-15ae-ae55-9028", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"},
+          {"name": "Baleful Glare", "id": "577f-8759-cca9-87ec", "hidden": false, "targetId": "9855-31c9-3745-714d", "type": "rule"},
+          {"name": "Cockatrice", "id": "165c-a94f-a654-9899", "hidden": false, "targetId": "0184-c48d-2234-cbf7", "type": "profile"},
+          {"name": "MoD2", "id": "81a9-d22c-756b-1086", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "e4e1-ab28-2fae-85f7",
+            "collective": false,
+            "defaultSelectionEntryId": "9bd8-50f1-127a-f210",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "4884-16b1-763c-9696",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "f138-a183-2475-e0bf",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Cockatrice",
+                "id": "9bd8-50f1-127a-f210",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 157}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "a89c-343d-119e-8cff", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Cockatrice",
+                "id": "f172-d87b-3cae-700e",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 177}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "777d-8f44-edef-b5b3", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Cockatrice",
+                "id": "e24a-ce4c-dde1-1d35",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 197}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "b849-5a02-9e20-cfc0", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cyclops",
+        "id": "5b3b-b3f4-bbba-7609",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d2db-df71-a8cc-c750", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Large", "id": "31ea-673a-7d1d-8b0c", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "5057-ca34-d221-9d56", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Cyclops", "id": "2b76-f1ee-6436-2a1f", "hidden": false, "targetId": "fdd9-726d-86fe-ec2d", "type": "profile"},
+          {"name": "MoD2", "id": "67d8-e4ef-b956-b19b", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "4b9a-4e8d-a38d-34ac",
+            "collective": false,
+            "defaultSelectionEntryId": "547a-d807-5442-8c10",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "ff93-069f-f26e-5b29",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "688d-42de-8aab-f223",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Cyclops",
+                "id": "547a-d807-5442-8c10",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 150}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "f345-a1f2-ad04-1902", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Cyclops",
+                "id": "e40a-8db7-c5c6-195b",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 170}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "778b-015f-b1ae-0e0c", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Cyclops",
+                "id": "7ec1-cc0d-fdd1-13cb",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 190}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "6995-d1a8-b261-5a67", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Add Rocks to Hurl",
+            "id": "966f-9c28-2ca5-a4ce",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Rocks to Hurl",
+                "id": "fdb9-d89e-1eab-ec25",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "f8c8-b91c-a896-f128",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 15}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Rock- Hurled by a Monstrosity", "id": "a3dc-b2f5-da36-e7d0", "hidden": false, "targetId": "04da-20b3-5a4a-f90c", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dragon",
+        "id": "6617-5ad0-1f45-cbe3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "4c4c-9bb4-d040-080d", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 3}],
+        "infoLinks": [
+          {"name": "Large", "id": "43bd-198f-38f9-4937", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "5e9d-c84f-74ac-7e57", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Dragon", "id": "7ad3-b6c4-acad-8728", "hidden": false, "targetId": "51fb-1d59-eff1-b671", "type": "profile"},
+          {"name": "Terror", "id": "04cd-a707-3bd3-1053", "hidden": false, "targetId": "583a-fa53-11ff-7b40", "type": "rule"},
+          {"name": "Flies", "id": "5c01-c415-74ea-61f9", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"},
+          {"name": "Flaming Breath", "id": "98a8-5b1f-27ea-c1af", "hidden": false, "targetId": "37e8-d658-01a9-6916", "type": "rule"},
+          {"name": "Fire", "id": "6f4d-fb56-fb2c-b458", "hidden": false, "targetId": "b61d-3471-1ce6-6878", "type": "rule"},
+          {"name": "MoD3", "id": "149a-0947-9774-944b", "hidden": false, "targetId": "a8ca-ba71-db97-bc20", "type": "rule"},
+          {"name": "Fast 6", "id": "25e0-1a1d-6554-765a", "hidden": false, "targetId": "7753-3806-9cf1-0a6c", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "4a92-1c5f-09d6-0769",
+            "collective": false,
+            "defaultSelectionEntryId": "3e21-a58d-f9ab-e3b0",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "a0dd-47e7-f9d2-66e2",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "dc66-a61b-1d6a-3691",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Dragon",
+                "id": "3e21-a58d-f9ab-e3b0",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 380}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "9c39-4b72-92df-13f3", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Dragon",
+                "id": "39d6-1fc9-414d-1bd6",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 410}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "6078-b0ed-e818-3fda", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Dragon",
+                "id": "2f91-1fec-a33b-76e9",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 440}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "f819-fb86-c60d-9000", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Add Baleful Glare",
+            "id": "6572-7256-e5cb-036d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Baleful Glare",
+                "id": "cbb7-0a88-6e3f-54f2",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "ac82-62c5-8d8d-cc5e",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Baleful Glare", "id": "051b-47f2-c38c-09c2", "hidden": false, "targetId": "9855-31c9-3745-714d", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Upgrade Flaming Breath to Beastly Breath",
+            "id": "4c72-9b9d-c9e1-7001",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Beastly Breath",
+                "id": "1387-82b5-f8a1-e1a2",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "8bdd-ce2d-7256-b17f",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 2}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Beastly Breath", "id": "698f-294f-8da8-560f", "hidden": false, "targetId": "14ff-225a-4ec5-f56d", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Upgrade Flaming Breath to 6x attacks",
+            "id": "d638-877a-84ba-1d50",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Flaming Breath 6x attacks",
+                "id": "5835-f6bc-38bc-cb75",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "cd12-1aec-a359-a046",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 18}, {"name": " order dice", "typeId": "orderDice", "value": 0}]
+              }
+            ]
+          },
+          {
+            "name": "Upgrade Flaming Breath to SV4",
+            "id": "876d-6239-2d0c-0b6e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Flaming Breath SV4",
+                "id": "d39b-603b-d6b8-65bd",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "a0d9-4f39-ccb0-d009",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 15}, {"name": " order dice", "typeId": "orderDice", "value": 0}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ghouls",
+        "id": "3ff4-044a-e595-a1b7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "2915-9b0a-3086-11ab", "hidden": false, "primary": true, "targetId": "c061-a0f2-e7d4-a23b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "selectionEntryGroups": [
+          {
+            "name": "Venomous Upgrade",
+            "id": "1c7b-9a18-17f0-c44d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Venomous",
+                "id": "1d9e-ac0b-5f65-3aed",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "765d-dfca-4949-b4e7",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 5}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "0ce7-a1fa-4f96-e650", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose Type",
+            "id": "77c8-d2ca-16b1-1153",
+            "collective": false,
+            "defaultSelectionEntryId": "96c2-fc17-f664-3f4a",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "4ee2-d06b-cc04-ece0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "13a6-383b-066b-bb52",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Ghouls",
+                "id": "96c2-fc17-f664-3f4a",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "c8a1-6610-82c1-54e1", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Ghouls",
+                "id": "ae9e-2739-5689-b484",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "fee3-3d3e-4c2c-3e31", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Ghouls",
+                "id": "58b1-de83-d5ce-5f03",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "db9d-4b7b-4cdc-c08b", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose between 5 and 10 Ghouls",
+            "id": "f550-a9ff-631d-141d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "c0b4-3b35-7e4a-25a6",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Ghouls",
+                "id": "aa10-4a6d-ea71-ec72",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "0e5a-51b0-4519-2f98",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 10
+                  },
+                  {
+                    "id": "eff5-5058-dd3f-bd8a",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 5
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 17}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Ghouls", "id": "ee31-9b66-0bcd-ada7", "hidden": false, "targetId": "7b72-6afa-c85b-64c1", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Giant",
+        "id": "4fea-a33c-4fc3-b70b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "99cb-c539-e076-f008", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 3}],
+        "infoLinks": [
+          {"name": "Giant", "id": "67ff-6c49-1de3-34e7", "hidden": false, "targetId": "e5bb-3c2b-9a60-9c05", "type": "profile"},
+          {"name": "Dread", "id": "cb89-14df-4900-c743", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Terror", "id": "a4a0-36ff-b854-93ff", "hidden": false, "targetId": "583a-fa53-11ff-7b40", "type": "rule"},
+          {"name": "Blundering", "id": "b10a-3863-12a8-4341", "hidden": false, "targetId": "087e-dfda-76c2-09bf", "type": "rule"},
+          {"name": "Large", "id": "dd78-3612-95f2-84d4", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "MoD3", "id": "3a44-1ae4-c351-f4b8", "hidden": false, "targetId": "a8ca-ba71-db97-bc20", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "ecf1-7c06-19fd-5ce2",
+            "collective": false,
+            "defaultSelectionEntryId": "69bc-e6b8-ecbd-ab78",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "1646-4f8c-c7bd-77b7",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "f3d2-b1fe-1796-a59a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Giant",
+                "id": "69bc-e6b8-ecbd-ab78",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 253}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "06a2-c3f4-07db-28b7", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Giant",
+                "id": "735b-b165-3df7-5fe6",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 283}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "18ea-10bf-bd29-26d9", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Giant",
+                "id": "3ede-d6a0-25b7-5eb0",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 313}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "94aa-312c-b3c3-77d0", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Hurled Rock Upgrade",
+            "id": "3e88-690e-3813-20bc",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Give Giant Rock to Hurl",
+                "id": "abb4-fdd8-c4ab-0f78",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "e5e9-ca94-cd42-df66",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 15}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Rock- Hurled by a Monstrosity", "id": "10e2-a9d0-d0d6-37f9", "hidden": false, "targetId": "04da-20b3-5a4a-f90c", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Beastly Breath Upgrade",
+            "id": "d303-f0ae-7a45-de8d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Beastly Breath",
+                "id": "bad1-15a9-fd3b-a09b",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "26d5-881e-fdb8-eb0c",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Beastly Breath", "id": "3e42-cec4-6b15-41f6", "hidden": false, "targetId": "14ff-225a-4ec5-f56d", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Giant Rats",
+        "id": "d456-6e73-d1fc-5db4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "6fbc-4c28-ad71-ce4c", "hidden": false, "primary": true, "targetId": "c061-a0f2-e7d4-a23b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [{"name": "Venomous", "id": "2af1-c96c-56d5-a957", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "c7ce-d81d-7be5-980d",
+            "collective": false,
+            "defaultSelectionEntryId": "5a11-9c74-f3a7-6798",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "a012-cf19-3c7b-a324",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "ee2e-af8b-e522-4ac1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Giant Rats",
+                "id": "5a11-9c74-f3a7-6798",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 4}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "9716-2394-c7a3-8d88", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Giant Rats",
+                "id": "a9ff-9571-4ea4-40e6",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 14}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "6f4a-edbc-daa9-29b9", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Giant Rats",
+                "id": "48e8-ed6c-33e2-7806",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 24}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "6f0a-7cbf-c752-1c3f", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose between 3 and 5",
+            "id": "4f07-7239-3aed-8536",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "3989-4ee5-3c82-0006",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Giant Rats",
+                "id": "236a-bd90-70f1-2f16",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "4ac0-00ca-15e0-54cc",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 5
+                  },
+                  {
+                    "id": "5df8-8f1c-ff2a-f5f4",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 3
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 14}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Giant Rats", "id": "c782-669d-eb01-c88f", "hidden": false, "targetId": "cd05-6e8f-63cf-f6ad", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Giant Scorpions",
+        "id": "452a-2a19-4531-92b8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "c0b2-9c2f-f7be-7d67", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Venomous", "id": "41f0-23ba-bb43-390b", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"},
+          {"name": "Wound 1", "id": "a718-0d20-0e0d-3d45", "hidden": false, "targetId": "8784-9f2f-1a5b-be21", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "1b46-f26a-fe11-a0e7",
+            "collective": false,
+            "defaultSelectionEntryId": "9cec-7929-0e33-855b",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "68b6-3d28-03ad-4f1b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "3189-fc49-12ae-ae77",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Giant Scorpions",
+                "id": "9cec-7929-0e33-855b",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": -2}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "1ed8-ae43-b81b-7f0f", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Giant Scorpions",
+                "id": "f4d0-49aa-8e85-20c3",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 8}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "7bee-1846-0a20-c039", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Giant Scorpions",
+                "id": "27b3-fd62-b1f5-fb6a",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 18}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "997b-ed6b-268a-be9f", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose between 1 and 3",
+            "id": "bb74-d0ec-135b-23ae",
+            "collective": false,
+            "defaultSelectionEntryId": "8dc0-f66c-7b64-7b33",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "115c-0cdf-2e36-4679",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Giant Scorpions",
+                "id": "8dc0-f66c-7b64-7b33",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "f782-6fdb-2aa2-639c",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  },
+                  {
+                    "id": "266f-25b0-5d39-bcfb",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 59}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Giant Scorpions", "id": "f369-25be-5cb5-391d", "hidden": false, "targetId": "9cd1-3fa7-9244-5170", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Giant Spiders",
+        "id": "051b-44ef-ec3d-a1c1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "2c23-10cd-7182-7576", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Wound 1", "id": "bcb1-41fa-2bc3-7fe0", "hidden": false, "targetId": "8784-9f2f-1a5b-be21", "type": "rule"},
+          {"name": "Giant Spiders", "id": "d2e8-3189-34b5-3822", "hidden": false, "targetId": "70ab-0608-068e-a498", "type": "profile"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "5109-a1af-1cb3-58f7",
+            "collective": false,
+            "defaultSelectionEntryId": "b1bc-3d7e-70f8-a492",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "bbe5-d736-bfa0-8de6",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "dfa5-2334-59d7-2bf1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Giant Spiders",
+                "id": "b1bc-3d7e-70f8-a492",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": -2}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "4c73-fbb6-e910-92b9", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Giant Spiders",
+                "id": "44f6-eaa3-c092-6ede",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 8}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "5a5b-9f5e-b034-0c45", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Giant Spiders",
+                "id": "b5bf-349f-7dd0-f647",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 18}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "9d53-062b-2398-9158", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose between 1 and 3",
+            "id": "8e95-2ae6-858c-e177",
+            "collective": false,
+            "defaultSelectionEntryId": "eae5-a892-59ac-640b",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "d5d6-2cfd-6b5d-8cb1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Giant Spiders",
+                "id": "eae5-a892-59ac-640b",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "2ac7-8e46-395c-5015",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  },
+                  {
+                    "id": "b78f-e23f-e1cd-bb91",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 52}, {"name": " order dice", "typeId": "orderDice", "value": 0}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gigantic Spider",
+        "id": "2846-5918-fd84-7e29",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "08c7-f0bc-c16a-2304", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Gigantic Spider", "id": "8ffb-7b41-1748-a62a", "hidden": false, "targetId": "ca3a-b6cb-8358-d7d9", "type": "profile"},
+          {"name": "Dread", "id": "0d8b-3229-a256-b8c6", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Terror", "id": "3177-655c-60dc-545b", "hidden": false, "targetId": "583a-fa53-11ff-7b40", "type": "rule"},
+          {"name": "Large", "id": "1548-3c25-bfbd-8b54", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "MoD2", "id": "10c3-470b-5a26-c7f3", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "4fd6-045d-43c7-39c4",
+            "collective": false,
+            "defaultSelectionEntryId": "89a1-e66a-a003-4cd8",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "5762-04d8-c133-471a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "7e80-f477-f907-e19a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Gigantic Spider",
+                "id": "89a1-e66a-a003-4cd8",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 218}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "1a8c-f426-4fe1-a4f8", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Gigantic Spider",
+                "id": "c54e-49dc-5a0c-3fbc",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 238}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "2250-1eb8-a32e-aa92", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Gigantic Spider",
+                "id": "6ee0-30cf-e562-3f38",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 258}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "1790-332c-e86d-9bf9", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Venomous Upgrade",
+            "id": "092c-d5d1-419a-57d2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Venomous",
+                "id": "aabb-b96a-f8e3-5493",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "5405-7342-642d-f3a8",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 5}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "1ad5-118b-e8a2-f2b1", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Golem",
+        "id": "7835-8a79-e484-397e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "2bc8-02d7-6109-2e47", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Dread", "id": "9df5-9e0f-f770-8a7c", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Golem", "id": "1912-83de-49d8-38e3", "hidden": false, "targetId": "ec10-cee9-9e3f-9783", "type": "profile"},
+          {"name": "Slow 4", "id": "a177-2893-16c8-de3a", "hidden": false, "targetId": "ade7-83de-c555-3df3", "type": "rule"},
+          {"name": "Tough 1", "id": "96f8-3846-6d66-8680", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "925d-1fa8-9bec-26a8",
+            "collective": false,
+            "defaultSelectionEntryId": "1897-fb06-b190-6c50",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "534e-046c-8888-aa46",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "1ab8-215c-e5c7-7851",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Bound Golem",
+                "id": "1897-fb06-b190-6c50",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 64}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "2c98-541a-2beb-da04", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choking Attacks Upgrade",
+            "id": "9edb-9066-7a74-55a4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Choking Attacks",
+                "id": "cb5a-4ce6-6b32-6cee",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "0a90-cdb1-d7a0-2211",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 3}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Choking Attacks", "id": "f5c1-3fdb-5f8b-54c8", "hidden": false, "targetId": "7bb1-5921-1762-f0fe", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Griffin",
+        "id": "b90a-e799-9047-9183",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "15a4-7846-cdb3-efbb", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Dread", "id": "ba6c-b5a4-87d6-9244", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Large", "id": "b17f-aa01-9b6f-27b9", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Savage", "id": "294d-1e58-b78f-9404", "hidden": false, "targetId": "c3b6-8870-61d6-7aaf", "type": "rule"},
+          {"name": "Fast 6", "id": "d434-6606-de8f-45ea", "hidden": false, "targetId": "7753-3806-9cf1-0a6c", "type": "rule"},
+          {"name": "Flies", "id": "a02a-2879-c602-de60", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"},
+          {"name": "Griffin", "id": "4bea-4093-d8cc-b1fc", "hidden": false, "targetId": "61f2-9f86-a3d8-d5e8", "type": "profile"},
+          {"name": "MoD2", "id": "6598-c39e-de16-9271", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "90b8-f4b3-f1d7-1885",
+            "collective": false,
+            "defaultSelectionEntryId": "a3bf-db9b-f57b-6e62",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "70dd-c203-32f6-533d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "d1ec-1e63-bffd-5608",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Griffin",
+                "id": "a3bf-db9b-f57b-6e62",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 144}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "a4bd-f0af-77e9-75e4", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Griffon",
+                "id": "b370-b36b-43ca-a71c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 164}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "1f71-8fa5-ec62-2923", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Griffin",
+                "id": "b331-fbf6-1c50-ebee",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 184}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "21c6-0287-cd87-20bc", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hippogriff",
+        "id": "30d1-8869-3361-d27b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "f08c-6d2d-7dcf-a2ee", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Dread", "id": "1fae-240f-11ae-1659", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Large", "id": "794e-15ba-aeff-8c62", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Fast 6", "id": "3a01-0b64-987a-cf3d", "hidden": false, "targetId": "7753-3806-9cf1-0a6c", "type": "rule"},
+          {"name": "Flies", "id": "f5b2-a3fc-3d2b-50c7", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"},
+          {"name": "Hippogriff", "id": "131f-6bcc-d759-4126", "hidden": false, "targetId": "7ea6-624e-3017-99b2", "type": "profile"},
+          {"name": "MoD2", "id": "61bd-67ff-c851-f742", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "6e98-7ce2-66ae-e058",
+            "collective": false,
+            "defaultSelectionEntryId": "70a7-aa27-b130-ad73",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "55d5-b72d-cd1b-38ad",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "a7d6-0002-e9bb-41e9",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Hippogriff",
+                "id": "70a7-aa27-b130-ad73",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 138}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "a252-1ec4-6a0b-2592", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Hippogriff",
+                "id": "c8c8-e773-51c3-6cee",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 159}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "7c1c-08ed-52ed-52ab", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Hippogriff",
+                "id": "3a43-2059-fef8-b1b2",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 179}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "56bc-4d36-d4eb-9a13", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hydra",
+        "id": "1826-be4d-e802-d903",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "cdfc-9e57-7aeb-562e", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Dread", "id": "50a9-c5bc-9431-4e0a", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Large", "id": "bd23-8ea6-af19-6925", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Stubborn", "id": "a6e5-f411-63cd-0502", "hidden": false, "targetId": "4440-376a-8093-35b8", "type": "rule"},
+          {"name": "Regenerate", "id": "b026-d08c-8c71-e357", "hidden": false, "targetId": "0a0c-ed4c-9647-4398", "type": "rule"},
+          {"name": "Hydra", "id": "e234-84da-9d68-f0bd", "hidden": false, "targetId": "6e13-9d18-f7c2-d272", "type": "profile"},
+          {"name": "MoD2", "id": "8d33-f79f-e1e2-da64", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "dde7-979d-fbff-bd7d",
+            "collective": false,
+            "defaultSelectionEntryId": "cb50-75bc-b388-29f5",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "72fc-ba9c-e496-2a0e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "65d7-f445-4d7d-e4fb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Hydra",
+                "id": "cb50-75bc-b388-29f5",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 182}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "6833-2a94-ed72-9052", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Hydra",
+                "id": "a1ee-e6d1-d095-f330",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 202}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "df20-fe2b-7115-7a4d", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Hydra",
+                "id": "ed64-f50f-d38e-3488",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 222}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "b38b-d327-675a-5c7d", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Flaming Breath Upgrade",
+            "id": "a9bd-62da-cc11-b3c5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Flaming Breath & Fire",
+                "id": "9928-29f4-9c99-a31a",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "ed6c-d06a-b9c5-51ae",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 18}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Flaming Breath", "id": "4adb-ee08-bc70-f486", "hidden": false, "targetId": "37e8-d658-01a9-6916", "type": "rule"},
+                  {"name": "Fire", "id": "f065-81c6-9343-7f1c", "hidden": false, "targetId": "b61d-3471-1ce6-6878", "type": "rule"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Beastly Breath Upgrade",
+            "id": "09fe-d58d-29e8-f213",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Beastly Breath",
+                "id": "f70b-6447-7288-67f8",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "40a1-56cb-e3b4-000a",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Beastly Breath", "id": "99ff-14e1-3cd4-9714", "hidden": false, "targetId": "14ff-225a-4ec5-f56d", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Manticore",
+        "id": "3c5b-7264-8586-c81c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "8e2d-8d48-a0bd-06b9", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Dread", "id": "82a1-b369-5dad-45a8", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Large", "id": "c30c-22bf-14f9-b0a7", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Beastly Breath", "id": "653e-1e86-e2b7-5d45", "hidden": false, "targetId": "14ff-225a-4ec5-f56d", "type": "rule"},
+          {"name": "MoD2", "id": "5a7d-489e-eb87-9b2a", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "105c-b572-2e3c-0709",
+            "collective": false,
+            "defaultSelectionEntryId": "944c-8f6d-0c3c-2775",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "5f76-8562-1a43-06c0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "b4eb-6c8f-c57a-530f",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Manticore",
+                "id": "944c-8f6d-0c3c-2775",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 158}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "8214-8f28-70bd-7dd1", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Manticore",
+                "id": "b02e-ae6c-1e3f-9414",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 178}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "e365-31b3-16e7-2de4", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Manticore",
+                "id": "5f8a-a49e-21b5-2691",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 198}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "70b0-8f4c-4977-c3c4", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Wings Upgrade",
+            "id": "425a-2077-d156-f920",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Flies",
+                "id": "ca51-bee0-ae11-0264",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "e70f-a1ad-0e5d-d661",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Flies", "id": "c400-65ab-fdef-4058", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Stinging Tail Upgrade",
+            "id": "2665-7ae0-c5f7-4a7c",
+            "collective": false,
+            "defaultSelectionEntryId": "da4b-100f-1b25-b303",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "f25d-c120-efed-b5fb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "f089-ffa4-05c7-0339",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Manticore with Stinging Tail",
+                "id": "1779-58b1-95e9-8616",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "0a1f-f350-9a69-0035",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 35}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Manticore with Stinging Tail", "id": "3d10-84a7-fbe3-3e17", "hidden": false, "targetId": "c9d3-d13d-232c-c354", "type": "profile"}]
+              },
+              {
+                "name": "Manticore",
+                "id": "da4b-100f-1b25-b303",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "d9d0-e248-f7e7-c6c5",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Manticore", "id": "53fc-6c57-de7f-c9d6", "hidden": false, "targetId": "3bd1-e1ac-0073-8b2f", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ogres",
+        "id": "bdbd-2e9c-63ce-9620",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "f1be-ad19-d193-72ea", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Frenzied Charge", "id": "a08d-bc50-05c7-48a5", "hidden": false, "targetId": "1c49-276e-425d-0999", "type": "rule"},
+          {"name": "Large", "id": "dbec-2695-bc32-575e", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "e4bc-0e18-3bdf-e847",
+            "collective": false,
+            "defaultSelectionEntryId": "10fd-618a-e4ea-206c",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "c3fd-5172-3d06-24dd",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "c152-30ad-3f0f-1668",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild",
+                "id": "10fd-618a-e4ea-206c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "2c65-c77f-1a73-5d8e", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound",
+                "id": "95ed-5dcf-9a9f-723c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "939a-5c7e-0315-a48f", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied",
+                "id": "84ab-9d2d-9bd0-f9f9",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "d07e-6872-1f07-c159", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose Armour",
+            "id": "efe5-5384-c1a2-e0aa",
+            "collective": false,
+            "defaultSelectionEntryId": "691a-b83b-08b9-20b4",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "179c-9a04-ca1c-0d12",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "3636-cdff-bad9-6615",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Ogres (no armour)",
+                "id": "691a-b83b-08b9-20b4",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose between 1 and 3",
+                    "id": "2309-c48e-3e4b-b73a",
+                    "collective": false,
+                    "defaultSelectionEntryId": "b67a-b7a4-da47-2cc8",
+                    "hidden": false,
+                    "import": true,
+                    "constraints": [
+                      {
+                        "id": "3275-3669-7fc5-2fe4",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "min",
+                        "value": 1
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Ogres",
+                        "id": "b67a-b7a4-da47-2cc8",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "9f90-529c-8003-07ad",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 1
+                          },
+                          {
+                            "id": "f39d-0fbd-73fe-9d36",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 3
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 28}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Ogres", "id": "896f-0239-4202-dee5", "hidden": false, "targetId": "c57c-29b1-6dce-2cb0", "type": "profile"}]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Promote one Ogre to Chieftain",
+                    "id": "b0d1-fa3f-9a7b-d04b",
+                    "collective": false,
+                    "hidden": true,
+                    "import": true,
+                    "modifiers": [
+                      {
+                        "field": "hidden",
+                        "type": "set",
+                        "value": false,
+                        "conditions": [
+                          {
+                            "childId": "b67a-b7a4-da47-2cc8",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "691a-b83b-08b9-20b4",
+                            "shared": true,
+                            "type": "equalTo",
+                            "value": 3
+                          }
+                        ]
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Replace one Ogre with Chieftain (no armour)",
+                        "id": "8d1e-0011-e9eb-5c87",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "upgrade",
+                        "constraints": [
+                          {
+                            "id": "34db-2f95-85a2-d80b",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 12}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Ogre Chieftain", "id": "06b7-391d-4ddc-372c", "hidden": false, "targetId": "46fb-de84-d662-097d", "type": "profile"},
+                          {"name": "Tough 1", "id": "0924-10ff-a2ee-7a14", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Ogres in Light Armour",
+                "id": "49d4-9052-fe2a-c388",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose between 1 and 3",
+                    "id": "3f66-db48-7401-3b97",
+                    "collective": false,
+                    "defaultSelectionEntryId": "c27a-073b-e87b-e932",
+                    "hidden": false,
+                    "import": true,
+                    "constraints": [
+                      {
+                        "id": "7298-1f03-fa41-44d2",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "min",
+                        "value": 1
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Ogres in Light Armour",
+                        "id": "c27a-073b-e87b-e932",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "5681-d68a-f3c3-7dcf",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 3
+                          },
+                          {
+                            "id": "bd6d-582a-9892-06f9",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 30}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Ogres in Light Armour", "id": "6515-84af-796a-d800", "hidden": false, "targetId": "4c9f-6aab-32b0-d91d", "type": "profile"}]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Promote one Ogre in Light Armour to Chieftain",
+                    "id": "d23d-fe1d-a69b-01d7",
+                    "collective": false,
+                    "hidden": true,
+                    "import": true,
+                    "modifiers": [
+                      {
+                        "field": "hidden",
+                        "type": "set",
+                        "value": false,
+                        "conditions": [
+                          {
+                            "childId": "c27a-073b-e87b-e932",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "49d4-9052-fe2a-c388",
+                            "shared": true,
+                            "type": "equalTo",
+                            "value": 3
+                          }
+                        ]
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Replace one Ogre with Chieftain in Light Armour",
+                        "id": "9656-ca2c-bb28-12d6",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "upgrade",
+                        "constraints": [
+                          {
+                            "id": "dfb5-05bb-18da-a7f5",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 12}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Ogre Chieftain in Light Armour", "id": "98f1-b675-20e3-117e", "hidden": false, "targetId": "f004-a3ca-4a39-903d", "type": "profile"},
+                          {"name": "Tough 1", "id": "123d-e937-72fc-b4d9", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Choose Weapons",
+            "id": "d993-1c56-15a0-2f8b",
+            "collective": false,
+            "defaultSelectionEntryId": "bd8a-fc82-2b64-b5a4",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "e541-e080-f807-cf9a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "f9dd-e765-955e-250f",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Big Axe",
+                "id": "bd8a-fc82-2b64-b5a4",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Big Axe", "id": "81d3-c8d0-ce79-5224", "hidden": false, "targetId": "e977-49ab-1207-d301", "type": "profile"}]
+              },
+              {
+                "name": "Massive Mace",
+                "id": "96a6-d255-dca8-5529",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Massive Mace", "id": "4d05-7306-1149-dee5", "hidden": false, "targetId": "6132-3227-d7f3-41ee", "type": "profile"}]
+              },
+              {
+                "name": "Warhammer",
+                "id": "ce2a-712b-0058-45d6",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Warhammer", "id": "aac2-ce33-dba8-2047", "hidden": false, "targetId": "096c-a0fe-df46-77c4", "type": "profile"}]
+              },
+              {
+                "name": "Spears",
+                "id": "6c4b-eb71-1dbf-f127",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Spear", "id": "0249-b54e-23df-8475", "hidden": false, "targetId": "c79a-48d1-9b48-2c68", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Vengeful Upgrade",
+            "id": "209c-d298-6c77-5324",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Vengeful",
+                "id": "e37d-adf4-9d32-f73e",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "c31b-c9ac-cabf-7387",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "modifiers": [
+                  {
+                    "field": "points",
+                    "type": "increment",
+                    "value": 1,
+                    "repeats": [
+                      {
+                        "childId": "model",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "repeats": 1,
+                        "roundUp": false,
+                        "scope": "bdbd-2e9c-63ce-9620",
+                        "shared": true,
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wild Swarms",
+        "id": "71af-c82c-450e-2b37",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d22a-534c-0358-514b", "hidden": false, "primary": true, "targetId": "c820-d327-811d-1144"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [{"name": "Wild", "id": "73ff-6d48-29bf-011c", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type of Swarm",
+            "id": "be55-2e48-bc08-19dd",
+            "collective": false,
+            "defaultSelectionEntryId": "22d1-b18d-b1a9-e05c",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "34a4-f163-19df-464b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "ce96-53c2-2786-2d69",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Ratswarm",
+                "id": "b84b-7852-db7b-ee3c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Wild Ratswarm", "id": "9e53-bc80-4f70-28ea", "hidden": false, "targetId": "e8bd-7b95-1cce-09a4", "type": "profile"},
+                  {"name": "Venomous", "id": "d996-531a-b78c-e97c", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}
+                ]
+              },
+              {
+                "name": "Batswarm",
+                "id": "22d1-b18d-b1a9-e05c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Wild Batswarm", "id": "327c-451d-13cc-01cd", "hidden": false, "targetId": "3476-9800-ad47-8c84", "type": "profile"},
+                  {"name": "Flies", "id": "fc1f-3c89-912a-83ad", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"},
+                  {"name": "Fast 7", "id": "ecd5-eac9-d36f-402d", "hidden": false, "targetId": "fd29-829f-3cd9-1841", "type": "rule"}
+                ]
+              },
+              {
+                "name": "Spiderswarm",
+                "id": "b3f8-e4f3-9d0f-6baa",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild Spiderswarm", "id": "d322-232e-6f0d-5817", "hidden": false, "targetId": "ed6e-31c3-36b2-839f", "type": "profile"}]
+              },
+              {
+                "name": "Frogswarm",
+                "id": "5baa-7f1c-6d03-a96e",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Wild Frogswarm", "id": "163c-bee8-9b37-18e8", "hidden": false, "targetId": "1611-c370-3e68-d00a", "type": "profile"},
+                  {"name": "Dread", "id": "596f-52fb-9a00-11c9", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"}
+                ]
+              },
+              {
+                "name": "Beeswarm",
+                "id": "3259-16f8-1a76-b829",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Wild Beeswarm", "id": "ffe0-4058-2d59-c37a", "hidden": false, "targetId": "5319-4ee6-a650-6292", "type": "profile"},
+                  {"name": "Venomous", "id": "c625-8d49-a8fc-f7b3", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"},
+                  {"name": "Flies", "id": "4ccb-d3d9-1b0c-4e97", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"}
+                ]
+              },
+              {
+                "name": "Serpentswarm",
+                "id": "3291-9eba-d0a4-e5d7",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Wild Serpentswarm", "id": "bf66-ec4e-f7d1-969c", "hidden": false, "targetId": "bb99-778c-b54b-3569", "type": "profile"},
+                  {"name": "Venomous", "id": "e8d2-778b-134d-02fe", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"},
+                  {"name": "Slow 4", "id": "5030-4d2b-b44f-0414", "hidden": false, "targetId": "ade7-83de-c555-3df3", "type": "rule"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Choose between 3 and 5",
+            "id": "a983-1da1-f11f-77d1",
+            "collective": false,
+            "defaultSelectionEntryId": "f480-9523-63fa-f20b",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "aff0-2194-1f8e-9843",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Swarms",
+                "id": "f480-9523-63fa-f20b",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "4441-42d6-b838-f55c",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 3
+                  },
+                  {
+                    "id": "9bcc-5bec-862d-6439",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 5
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 25}, {"name": " order dice", "typeId": "orderDice", "value": 0}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wyvern",
+        "id": "5943-a398-3d77-7af7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "ee8b-b103-dc3d-bc4e", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Wyvern ", "id": "8047-0ae2-5fde-30a9", "hidden": false, "targetId": "c844-35e2-768e-50f8", "type": "profile"},
+          {"name": "Large", "id": "e741-a542-0958-f574", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "e4a4-a2e2-4289-dcf6", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Flies", "id": "459a-e1f9-6a0f-5dbc", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"},
+          {"name": "MoD2", "id": "1645-86d0-2ae7-98fb", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "5108-2ad0-b948-1697",
+            "collective": false,
+            "defaultSelectionEntryId": "3692-feb9-6467-959f",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "2773-2d17-3997-1b8a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "491d-55ee-c4f5-2572",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Wyvern",
+                "id": "3692-feb9-6467-959f",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 160}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "2531-bdb6-0d2c-3df0", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Wyvern",
+                "id": "dfe9-9eec-b034-aa25",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 180}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "1c0c-ea0f-0248-fd5b", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              },
+              {
+                "name": "Allied Wyvern",
+                "id": "8f81-0caf-1d01-ec4b",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 200}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "cb84-8103-a1da-9023", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Flaming Breath or Beastly Breath",
+            "id": "4363-527b-0bfe-04d0",
+            "collective": false,
+            "defaultSelectionEntryId": "96dd-35c0-46c4-15f6",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "83cb-fa07-ac52-2deb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "e25c-9ef7-9779-9a96",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Flaming Breath 5xAttacks SV4",
+                "id": "cd07-d0b2-6465-e793",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 15}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Flaming Breath", "id": "53fb-aef9-72c6-47f0", "hidden": false, "targetId": "37e8-d658-01a9-6916", "type": "rule"}]
+              },
+              {
+                "name": "Beastly Breath",
+                "id": "96dd-35c0-46c4-15f6",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Beastly Breath", "id": "32d0-8f09-7725-acb4", "hidden": false, "targetId": "14ff-225a-4ec5-f56d", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Deathly Chill Upgrade",
+            "id": "faa9-e60a-abb5-af63",
+            "collective": false,
+            "defaultSelectionEntryId": "d229-e8a7-8781-1915",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "83d0-732f-8ece-09ca",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "37a9-a86c-053b-38fe",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Deathly Chill Attacks (Replacing Venomous)",
+                "id": "4ebd-05b8-34b1-6f5d",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Deathly Chill", "id": "33e8-4c24-0734-cb80", "hidden": false, "targetId": "c738-3360-de3b-34a9", "type": "rule"}]
+              },
+              {
+                "name": "Venomous",
+                "id": "d229-e8a7-8781-1915",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "e785-9f98-0b35-cbb8", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Allied Giant Treeman",
+        "id": "853f-a790-4f4e-0d98",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "7215-de58-47be-42ba", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Large", "id": "ca7a-c26f-0c79-0909", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Blundering", "id": "d13a-f5db-2a1a-6350", "hidden": false, "targetId": "087e-dfda-76c2-09bf", "type": "rule"},
+          {"name": "Slow", "id": "23fb-59ae-1fb1-4d3a", "hidden": false, "targetId": "4d2b-eef9-9776-1480", "type": "rule"},
+          {"name": "Woodsman", "id": "642e-9d82-ae69-d7f3", "hidden": false, "targetId": "e1f3-7817-0e4e-5cb9", "type": "rule"},
+          {"name": "Stubborn", "id": "6992-98f9-89d8-3def", "hidden": false, "targetId": "4440-376a-8093-35b8", "type": "rule"},
+          {"name": "Tough 1", "id": "ca2b-3728-2f54-9c51", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"},
+          {"name": "Dread", "id": "72e7-6ebb-a444-9ecc", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "MoD2", "id": "daea-c6d3-cf66-2667", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"},
+          {"name": "Allied", "id": "7d13-1008-f539-e13d", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}
+        ],
+        "selectionEntries": [
+          {
+            "name": "Giant Treeman",
+            "id": "4ede-95ed-6c45-af30",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "e2fa-1f55-20f2-a503",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "bf36-baa2-fcfd-a694",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "points", "value": 204}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+            "infoLinks": [{"name": "Giant Treeman", "id": "bffb-734f-de4e-2467", "hidden": false, "targetId": "8131-c371-7d0a-189b", "type": "profile"}]
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Give Treeman Rock to Hurl",
+            "id": "9505-3e5f-fa20-828f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Rock to Hurl",
+                "id": "2ef6-1aaf-5d22-8490",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "73e7-b8b6-6d6f-fa3d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 15}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Rock- Hurled by a Monstrosity", "id": "d388-8eeb-78d2-3d52", "hidden": false, "targetId": "04da-20b3-5a4a-f90c", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Allied Treemen/Dryads",
+        "id": "6491-3e79-cfd5-76db",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "ffd5-4b94-abca-9e24", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Blundering", "id": "8bc0-6f99-fbe7-77ca", "hidden": false, "targetId": "087e-dfda-76c2-09bf", "type": "rule"},
+          {"name": "Large", "id": "4bb4-42a6-3f94-eca5", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Slow 4", "id": "92de-e4f7-0e56-a33a", "hidden": false, "targetId": "ade7-83de-c555-3df3", "type": "rule"},
+          {"name": "Woodsman", "id": "5355-be96-bfa3-52a9", "hidden": false, "targetId": "e1f3-7817-0e4e-5cb9", "type": "rule"},
+          {"name": "Stubborn", "id": "7f72-d386-639b-77d3", "hidden": false, "targetId": "4440-376a-8093-35b8", "type": "rule"},
+          {"name": "Tough 1", "id": "acd6-4bb7-abc3-e1e3", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"},
+          {"name": "Allied", "id": "8c9c-8d17-2568-a340", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Chose between 1 and 3",
+            "id": "9cbd-c835-1d32-e337",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "5944-e099-94bd-0f16",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Treemen/Dryad",
+                "id": "b86d-bf3e-e0b6-7008",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "cae1-f9d3-4572-d755",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  },
+                  {
+                    "id": "a450-d39e-95f7-4c44",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 53}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Treeman/Dryad", "id": "2a39-fc0d-279b-39bc", "hidden": false, "targetId": "e5f9-9f0b-73eb-76e7", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Trolls",
+        "id": "45c6-60cf-f892-7efa",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "9e47-15c6-4fc8-5d68", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Large", "id": "9a36-64d4-76ed-3e08", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Regenerate", "id": "5d10-c992-7ceb-8196", "hidden": false, "targetId": "0a0c-ed4c-9647-4398", "type": "rule"},
+          {"name": "Chunder", "id": "bd8c-a344-dfa7-798e", "hidden": false, "targetId": "46d2-d008-8225-bcff", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose between 3 and 5",
+            "id": "cfb8-daa5-aeff-3a51",
+            "collective": false,
+            "defaultSelectionEntryId": "20df-0d9b-69c5-6e8e",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "bf08-4846-ff39-db3c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Trolls",
+                "id": "20df-0d9b-69c5-6e8e",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "a986-21b6-2332-b73e",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 3
+                  },
+                  {
+                    "id": "a446-f56e-8e7d-d769",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 5
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 35}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Trolls", "id": "9dce-ace2-24a3-e851", "hidden": false, "targetId": "5ff3-ad2b-6639-78da", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose Type",
+            "id": "18c6-1678-7be7-fff7",
+            "collective": false,
+            "defaultSelectionEntryId": "2270-2d2f-e43a-4d4f",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "b8ff-ced3-621c-7bd8",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "fd79-25f1-70b6-c87d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild",
+                "id": "2270-2d2f-e43a-4d4f",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "f032-55fd-eb87-6228", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound",
+                "id": "b5c2-0b03-6640-007c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "8937-8fee-3e9e-1490", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cave Bear",
+        "id": "cfc8-c933-eeab-5e21",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "470e-6966-9ba9-ed81", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Cave Bear", "id": "88c6-0967-6a45-8abc", "hidden": false, "targetId": "da16-d143-b468-26c3", "type": "profile"},
+          {"name": "Large", "id": "2201-d7c9-fea8-e342", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Irresistible Charge", "id": "6708-cc7f-f63e-a0e6", "hidden": false, "targetId": "86b2-7051-4b5c-d149", "type": "rule"},
+          {"name": "Frenzied Charge", "id": "c317-b222-9e18-d240", "hidden": false, "targetId": "1c49-276e-425d-0999", "type": "rule"},
+          {"name": "Wound 1", "id": "356c-23b5-7702-d775", "hidden": false, "targetId": "8784-9f2f-1a5b-be21", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "ea09-eb2c-4f79-d024",
+            "collective": false,
+            "defaultSelectionEntryId": "8466-565c-872e-39ef",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "23e8-0f65-f81e-97b4",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "501f-d709-5a73-7129",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Cave Bear",
+                "id": "8466-565c-872e-39ef",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 62}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "6f35-2c5d-b02a-cabd", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Allied Were Bear",
+                "id": "21e9-914d-c0a4-f6dd",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 82}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Allied", "id": "551a-c0ea-c7b2-a71c", "hidden": false, "targetId": "ae37-06b2-7f4c-ec52", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Brontosaur",
+        "id": "903f-9d10-4831-bf0f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "47e9-8217-b4db-86ec", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Brontosaur", "id": "2fcb-45a2-d98b-188f", "hidden": false, "targetId": "5ca4-7d22-6678-4dc5", "type": "profile"},
+          {"name": "Large", "id": "eeea-e415-ab59-aba9", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Blundering", "id": "8ac3-5d17-8dc8-26aa", "hidden": false, "targetId": "087e-dfda-76c2-09bf", "type": "rule"},
+          {"name": "Stampede", "id": "3125-c599-1559-1572", "hidden": false, "targetId": "45b3-c028-8c8c-43ae", "type": "rule"},
+          {"name": "MoD2", "id": "e7bf-5ac5-e540-8935", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "ff84-1867-6415-542c",
+            "collective": false,
+            "defaultSelectionEntryId": "6ee4-fa2e-f18a-e585",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "b3e7-1e13-ec81-0987",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "17a0-fb21-e440-b4c4",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Brontosaur",
+                "id": "6ee4-fa2e-f18a-e585",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 115}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "ca46-51c4-a614-cff5", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Brontosaur",
+                "id": "93f4-cb20-966f-0aeb",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 135}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "ae67-b8c4-9816-3132", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tyrannosaur",
+        "id": "4f7e-f547-4d5a-8c7c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "1a38-d44e-2431-d417", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Tyrannosaur", "id": "0a43-75c0-306c-dc81", "hidden": false, "targetId": "c74b-e0c7-6a3d-bc2a", "type": "profile"},
+          {"name": "Large", "id": "ee39-5489-a196-f333", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "53b6-9935-fe52-9e2c", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Terror", "id": "ec28-5026-2111-db2f", "hidden": false, "targetId": "583a-fa53-11ff-7b40", "type": "rule"},
+          {"name": "Irresistible Charge", "id": "50ae-9dfe-5339-cd72", "hidden": false, "targetId": "86b2-7051-4b5c-d149", "type": "rule"},
+          {"name": "MoD2", "id": "2896-ceea-330c-531c", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "0726-c986-4790-8062",
+            "collective": false,
+            "defaultSelectionEntryId": "2346-0528-6126-5d9f",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "2ae6-a498-a770-fa6b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "bc06-c039-8d87-a347",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Tyrannosaur",
+                "id": "2346-0528-6126-5d9f",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 188}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "b76e-29c9-e349-fb9f", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Tyrannosaur",
+                "id": "3c57-a04b-6fb8-7f01",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 208}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "3d41-1754-233d-9e6f", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Horned Dinosaur",
+        "id": "3aff-bbec-a820-725d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "ad60-59c4-e79f-ac04", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Horned Dinosaur", "id": "fe58-085f-9e71-bc8e", "hidden": false, "targetId": "68aa-6640-b9da-6ee0", "type": "profile"},
+          {"name": "Large", "id": "307f-3fd4-9ab7-6ece", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "963c-4041-0593-1788", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Irresistible Charge", "id": "4608-8d6f-7015-522f", "hidden": false, "targetId": "86b2-7051-4b5c-d149", "type": "rule"},
+          {"name": "Stampede", "id": "c0c4-1275-cd5b-1e84", "hidden": false, "targetId": "45b3-c028-8c8c-43ae", "type": "rule"},
+          {"name": "MoD2", "id": "1f2a-1eb8-2c3c-bc4f", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Type",
+            "id": "549b-a9e6-10a9-45ee",
+            "collective": false,
+            "defaultSelectionEntryId": "09d1-5c85-75f4-4881",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "31ba-4653-6608-364e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "fb7d-c34d-f3d1-cfed",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wild Horned Dinosaur",
+                "id": "09d1-5c85-75f4-4881",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 122}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wild", "id": "0bb1-1e57-a0b6-56a1", "hidden": false, "targetId": "e2ce-cefd-9949-02fd", "type": "rule"}]
+              },
+              {
+                "name": "Bound Horned Dinosaur",
+                "id": "12dd-9ea6-8083-cb4a",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 142}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bound", "id": "6b5b-ba7b-fd6c-4596", "hidden": false, "targetId": "2e98-ee7b-558a-81ef", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
