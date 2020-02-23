@@ -1,0 +1,4068 @@
+{
+  "catalogue": {
+    "name": "Snakemen",
+    "id": "152d-3173-80b2-a764",
+    "authorContact": "https://github.com/BSData/warlords-of-erehwon/issues",
+    "authorName": "The3DWargamer & LeadAddict",
+    "authorUrl": "https://github.com/BSData/warlords-of-erehwon",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "cffa-cd51-33d5-b2c6",
+    "gameSystemRevision": 1,
+    "library": false,
+    "revision": 5,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "categoryEntries": [
+      {
+        "name": "Snakeman Monstrosity",
+        "id": "9fb1-47aa-24d5-0f85",
+        "hidden": false,
+        "constraints": [
+          {
+            "id": "c676-7611-d641-59a1",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ]
+      }
+    ],
+    "entryLinks": [
+      {
+        "name": "Snakeman Serpent Lord [103 pts]",
+        "id": "1a78-4648-bf1b-ebd0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4f93-772c-1a68-d127",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Snakeman High-Priest of Hissta [60 pts]",
+        "id": "8258-9325-b4ad-7d2d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2019-dbf1-8aa9-364d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Snakeman Cosmic Star Serpent Hero [86 pts]",
+        "id": "a0ff-d308-a451-a40c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1a5e-d33f-9652-297f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Snakeman Python Guard [82 pts]",
+        "id": "8ce6-cfb8-93ed-afc5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7cba-b245-d058-46af",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Snakeman Warriors [72 pts]",
+        "id": "d27b-dbff-9c12-448c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "37b6-f4e6-0e5d-6d14",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Snakeman Viper Warriors [77 pts]",
+        "id": "0188-8a9b-c6c8-b0cb",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9033-ab9b-3a31-06fd",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Snakeman Cobra Guard [87 pts]",
+        "id": "59ac-6dd3-89d9-f38d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "995b-88e6-92aa-8220",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hemata Elder Guardian [41 pts]",
+        "id": "e112-0b36-55a7-4ca0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "00aa-31c0-56fc-f219",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gorgon Elder Serpent [62 pts]",
+        "id": "ed17-3eb3-507e-df72",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "73c2-ab60-7aef-87f4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Saurian Slithering Beast Pack [94 pts]",
+        "id": "6c99-a90f-8442-60e7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c1d8-f242-88b4-7ce4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Pterosaurs [129 pts]",
+        "id": "8bba-0f32-f8d4-c5b1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "19f9-b7db-3799-e42a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Raptors [93 pts]",
+        "id": "caea-7e4f-3e28-8ef1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c917-12a1-c769-10e1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tyrannosaur",
+        "id": "467a-3815-5064-242a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "18a2-7a44-1f56-0b9b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Sail Back Saurian",
+        "id": "2031-099c-197e-d00c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5ce8-543c-1a85-1343",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Giant Horned Saurian",
+        "id": "0d26-f8dc-dc7b-6f1f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "242e-666d-78d7-0b00",
+        "type": "selectionEntry"
+      }
+    ],
+    "sharedProfiles": [
+      {
+        "name": "Snakeman Serpent Lord in Light Armour",
+        "id": "0dbe-d658-1791-3c5c",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(7)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough X, Command, Follow, 3xHtH, Wound X", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Serpent Lord in Medium Armour",
+        "id": "ce03-f262-e4dc-f03d",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(8)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough X, Command, Follow, 3xHtH, Wound X", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Bodyguard in Light Armour",
+        "id": "c414-0710-0b27-8b7b",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(7)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Bodyguard in Medium Armour",
+        "id": "b377-1ad1-2068-2159",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(8)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman High-Priest",
+        "id": "18d2-7397-779b-f993",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough X, Wound, Magic Level X", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Acolytes",
+        "id": "62aa-06be-8845-715b",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Serpentine Spirits",
+        "id": "ab8d-f0ed-8fad-120c",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "3", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "3", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Spirit, 1xHth SV1, Exchange of Missiles SV1", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Hero",
+        "id": "c58b-2209-30ae-335d",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough X, Hero, 3xHtH, Wound X, Stubborn, Disciplined", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Hero in Light Armour",
+        "id": "68bd-cdfd-c9e7-f016",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(7)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough X, Hero, 3xHtH, Wound X, Stubborn, Disciplined", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Hero in Medium Armour",
+        "id": "d0b0-cca6-ea08-f12e",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(8)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough X, Hero, 3xHtH, Wound X, Stubborn, Disciplined", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Python Guard Leader",
+        "id": "1e5e-1b88-ffab-fe80",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Python Guard Leader in Light Armour",
+        "id": "5205-a582-789f-4805",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(7)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Python Guard",
+        "id": "ce1b-b82e-1623-33d4",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Python Guard in Light Armour",
+        "id": "f9ec-b7c4-80ef-b2bc",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(7)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Warrior Leader",
+        "id": "a8e5-1a85-09e2-2b05",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Warrior Leader in Light Armour",
+        "id": "8908-1855-c14f-1b51",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(7)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Warrior",
+        "id": "450d-624e-23cb-b870",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Warrior in Light Armour",
+        "id": "c487-e696-b8ce-b0bc",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(7)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Viper Warrior Leader",
+        "id": "67c4-4e5d-227d-d26e",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Viper Warrior",
+        "id": "2ff7-a261-cc2f-1192",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakemen Cobra Guard Leader",
+        "id": "0de9-1e2e-92bb-de08",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "6", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakemen Cobra Guard",
+        "id": "e2cd-774e-9678-6a11",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "6", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "-", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Hemata Guardian",
+        "id": "93b2-0a32-88c5-9011",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, 2xHtH SV2 Choking, 1xHtH SV3 Venomous", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Hemata Guardian Leader",
+        "id": "09b7-6f70-46ce-f64b",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, 2xHtH SV2 Choking, 1xHtH SV3 Venomous, Tough", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Gorgon",
+        "id": "c4ef-78fa-e9cf-a2e8",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "8", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, 3xHtH SV2 Choking, 3xRanged (bow), Wound", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Pack Master",
+        "id": "ae15-5d71-d1f1-6cd9",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough, Rapid Sprint", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Snakeman Pack Master in Light Armour",
+        "id": "5cbe-12a3-d570-ea10",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "5", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6(7)", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Tough, Rapid Sprint", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Saurian Beast",
+        "id": "0ee0-9140-215b-34fb",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "5", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Savage, Rapid Sprint, 1xHtH SV1", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Pterosaur",
+        "id": "2b7d-462f-ffbc-2260",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "10", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "5", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "5", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "6", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Flies, Fast 10, 2xHtH SV1, Surly", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Tyrannosaur",
+        "id": "6c2e-9aa4-1b3b-126e",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "6", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "7", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV5, Dread, Terror, Irresistable charge, Surly", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Raptors",
+        "id": "f291-ba80-8ec1-53a2",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "7", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "6", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "5", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "8", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, Fast 8, 2xHtH SV2, Surly", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Sail Back Saurian",
+        "id": "6a7b-c37f-621d-3470",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "10", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 5xHtH SV3, Dread, Fast 6, Surly", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      },
+      {
+        "name": "Giant Horned Saurian",
+        "id": "b74d-5550-565f-8794",
+        "hidden": false,
+        "typeId": "2f17-7b0c-7f4e-2baf",
+        "typeName": "Model",
+        "characteristics": [
+          {"name": "Ag", "$text": "5", "typeId": "b787-94dd-0cef-abb7"},
+          {"name": "Acc", "$text": "-", "typeId": "efac-8fd0-5d23-7d69"},
+          {"name": "Str", "$text": "6", "typeId": "fcb5-8bd5-6767-fa61"},
+          {"name": "Res", "$text": "12", "typeId": "d916-9ec8-dd33-7873"},
+          {"name": "Init", "$text": "7", "typeId": "7313-a059-134c-8199"},
+          {"name": "Co", "$text": "7", "typeId": "a7e4-65ad-5a57-90bb"},
+          {"name": "Special", "$text": "Large, MOD2, 3xHtH SV5, Dread, Stampede, Irresistable Charge, Surly", "typeId": "68b3-e6ca-5920-ff4e"}
+        ]
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Snakeman Serpent Lord",
+        "id": "4f93-772c-1a68-d127",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "a580-b659-c3f5-2efc", "hidden": false, "primary": true, "targetId": "warlord unit"},
+          {"name": "Warrior Unit", "id": "1fb4-7485-73d9-6a93", "hidden": false, "primary": false, "targetId": "warrior unit"}
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "entryLinks": [
+          {
+            "name": "Magic Weapons",
+            "id": "33c2-8eb8-3217-0bcb",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "04c0-42c1-8864-cf22",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Armour",
+            "id": "09bd-6931-dd0a-017c",
+            "collective": false,
+            "defaultSelectionEntryId": "d7e9-6c59-4a8d-ffba",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "9b7f-7577-ffe0-c205",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "ff81-5077-6d4e-141b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Light Armour",
+                "id": "d7e9-6c59-4a8d-ffba",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose 2 to 4",
+                    "id": "7762-4c8d-6969-cebe",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "constraints": [
+                      {
+                        "id": "c19e-675a-5a81-58e7",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "min",
+                        "value": 1
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Snakeman Serpent Lord",
+                        "id": "8601-9a71-1122-8c55",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "76c7-f7ca-e24f-aadb",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "33d7-0c61-609f-3e94",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 75}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Snakeman Serpent Lord in Light Armour", "id": "9ff7-7e73-efb2-8b40", "hidden": false, "targetId": "0dbe-d658-1791-3c5c", "type": "profile"},
+                          {"name": "Command", "id": "a72e-b24f-88e5-b6aa", "hidden": false, "targetId": "b0ed-8f0b-633c-2f06", "type": "rule"},
+                          {"name": "Follow", "id": "b579-636a-a398-9273", "hidden": false, "targetId": "83d2-f89c-33a4-258d", "type": "rule"}
+                        ]
+                      },
+                      {
+                        "name": "Snakeman Bodyguard",
+                        "id": "178d-8fdc-c4ff-d7e8",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "d389-9a81-d985-3dda",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 2
+                          },
+                          {
+                            "id": "c9c6-cc90-7551-ca75",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 4
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 14}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Snakeman Bodyguard in Light Armour", "id": "c348-e773-c56b-c22a", "hidden": false, "targetId": "c414-0710-0b27-8b7b", "type": "profile"}]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Medium Armour",
+                "id": "276b-b7ff-6475-baf0",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose 2 to 4",
+                    "id": "b02d-6dd3-463d-2036",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "constraints": [
+                      {
+                        "id": "b68b-574c-a800-678a",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "min",
+                        "value": 1
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Snakeman Serpent Lord",
+                        "id": "4edc-fb9c-52db-f0df",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "3fa0-5512-6e08-14dc",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "6a18-f12a-3e38-6f0f",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 85}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Snakeman Serpent Lord in Medium Armour", "id": "7b54-d6a8-72af-5757", "hidden": false, "targetId": "ce03-f262-e4dc-f03d", "type": "profile"},
+                          {"name": "Command", "id": "af26-72e4-610a-5a52", "hidden": false, "targetId": "b0ed-8f0b-633c-2f06", "type": "rule"},
+                          {"name": "Follow", "id": "4d7f-8d01-3b58-4499", "hidden": false, "targetId": "83d2-f89c-33a4-258d", "type": "rule"}
+                        ]
+                      },
+                      {
+                        "name": "Snakeman Bodyguard",
+                        "id": "ff3f-f029-c46b-44b3",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "f55e-b34e-a133-c800",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 2
+                          },
+                          {
+                            "id": "db6a-18b6-ee2c-5952",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 4
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 16}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Snakeman Bodyguard in Medium Armour", "id": "c556-bd6a-df02-e852", "hidden": false, "targetId": "b377-1ad1-2068-2159", "type": "profile"}]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tough Upgrade",
+            "id": "0d6f-5960-5713-d119",
+            "collective": false,
+            "defaultSelectionEntryId": "dff9-4948-babb-2691",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "4064-4030-d200-f5d6",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "bcc9-8726-ec5a-e7bc",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Tough",
+                "id": "dff9-4948-babb-2691",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Tough", "id": "a418-b3fa-3fe8-48f0", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}]
+              },
+              {
+                "name": "Tough 2",
+                "id": "3440-1ece-770f-f46a",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Tough 2", "id": "4533-ef0c-1efc-6967", "hidden": false, "targetId": "487f-dc82-bce1-c0f6", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Venomous Upgrade",
+            "id": "6cf7-9b31-6c65-44ce",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Venomous",
+                "id": "a4ed-bede-61d5-c0f8",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "a39d-6e19-4115-1e67",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 5}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "747a-88c7-141d-06be", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Wound Upgrade",
+            "id": "8b66-14e1-bf38-1bd8",
+            "collective": false,
+            "defaultSelectionEntryId": "839c-650f-9452-91a9",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "ebca-0ba8-5c13-a83c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "8a6f-6b50-46f6-0733",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wound",
+                "id": "839c-650f-9452-91a9",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wound", "id": "66d7-6d49-9297-de95", "hidden": false, "targetId": "8784-9f2f-1a5b-be21", "type": "rule"}]
+              },
+              {
+                "name": "Wound 2",
+                "id": "3f9e-4ed1-6030-198a",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 14}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wound 2", "id": "7c15-213d-044b-6985", "hidden": false, "targetId": "342b-a482-cb16-67e0", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose Weapons",
+            "id": "16a6-da8b-816e-e246",
+            "collective": false,
+            "defaultSelectionEntryId": "1ac3-98b9-0509-9f19",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "6895-b997-74bb-8e45",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "cac6-2732-2d1c-a55c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Sword or Axe",
+                "id": "1ac3-98b9-0509-9f19",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Sword or Axe", "id": "ef95-8c93-22d7-4930", "hidden": false, "targetId": "2447-8f38-dd07-d089", "type": "profile"}]
+              },
+              {
+                "name": "Huge Swords",
+                "id": "e720-6c1c-cb62-0a35",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Huge Sword", "id": "761b-e9e2-7530-45f8", "hidden": false, "targetId": "41c3-e1df-53b7-ed79", "type": "profile"}]
+              },
+              {
+                "name": "Big Axes",
+                "id": "92fc-720f-6f36-8b09",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Big Axe", "id": "3e07-53e4-770d-01c3", "hidden": false, "targetId": "e977-49ab-1207-d301", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Snakeman High-Priest of Hissta",
+        "id": "2019-dbf1-8aa9-364d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "5a11-bfe5-42f8-4422", "hidden": false, "primary": true, "targetId": "wizard unit"},
+          {"name": "Warrior Unit", "id": "198e-9bd8-a312-1917", "hidden": false, "primary": false, "targetId": "warrior unit"}
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "entryLinks": [
+          {
+            "name": "Magic Weapons",
+            "id": "1242-adba-3c8a-a88e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "04c0-42c1-8864-cf22",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Magic User",
+            "id": "8ef2-e72b-e1c9-23aa",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "fa2b-7444-91ac-3dec",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Snakeman High-Priest",
+            "id": "f5a3-559b-b85f-5c1f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "2b42-2b0d-f9b9-22a5",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "7077-cb0d-7a3b-dd6e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "points", "value": 60}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+            "infoLinks": [
+              {"name": "Snakeman High-Priest", "id": "d4d2-d974-5130-306e", "hidden": false, "targetId": "18d2-7397-779b-f993", "type": "profile"},
+              {"name": "Wound", "id": "cbcc-7065-e02b-cafd", "hidden": false, "targetId": "8784-9f2f-1a5b-be21", "type": "rule"}
+            ]
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Tough Upgrade",
+            "id": "20b3-3aa5-c11e-e1ed",
+            "collective": false,
+            "defaultSelectionEntryId": "eda7-7a13-ddba-14be",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "d388-a2d9-8d26-f94c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "5681-cf08-d4d8-7bcb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Tough",
+                "id": "eda7-7a13-ddba-14be",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Tough", "id": "822a-95de-71b7-35bb", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}]
+              },
+              {
+                "name": "Tough 2",
+                "id": "f6eb-82fb-174a-6419",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Tough 2", "id": "957f-77eb-0149-416d", "hidden": false, "targetId": "487f-dc82-bce1-c0f6", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose Weapons",
+            "id": "85c6-70e3-2784-81aa",
+            "collective": false,
+            "defaultSelectionEntryId": "ed10-d05c-b2c3-e68c",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "5b20-ee2b-2821-e758",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "e441-4d41-cd69-12bc",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Sword or Axe",
+                "id": "0931-9218-2087-c3a1",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Sword or Axe", "id": "406f-ad56-9ee7-7c8d", "hidden": false, "targetId": "2447-8f38-dd07-d089", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "points",
+                    "type": "increment",
+                    "value": 1,
+                    "repeats": [
+                      {
+                        "childId": "model",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "repeats": 1,
+                        "roundUp": false,
+                        "scope": "2019-dbf1-8aa9-364d",
+                        "shared": true,
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Dagger",
+                "id": "ed10-d05c-b2c3-e68c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Dagger", "id": "6c06-9339-f30c-018d", "hidden": false, "targetId": "5514-08ba-d190-bf84", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Acolytes or Spirits",
+            "id": "7670-bd28-f786-699e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "0e7f-70fe-c459-ccdb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Acolytes",
+                "id": "58f3-434d-5fcb-9baa",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose up to 4",
+                    "id": "cf2b-3fe8-fb35-ac1d",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "selectionEntries": [
+                      {
+                        "name": "Acolytes",
+                        "id": "f392-cdc6-122a-ff55",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "5a3a-bb22-4770-c64c",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 4
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 11}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Snakeman Acolytes", "id": "7041-d24c-e19c-3c55", "hidden": false, "targetId": "62aa-06be-8845-715b", "type": "profile"}]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Spirits",
+                "id": "de00-ff55-111a-81a3",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose up to 4",
+                    "id": "e099-00bf-a460-fdda",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "selectionEntries": [
+                      {
+                        "name": "Serpentine Spirits",
+                        "id": "bfc1-66b6-caec-8cd4",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "upgrade",
+                        "constraints": [
+                          {
+                            "id": "60f3-4eab-7b70-82af",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 4
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 21}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Serpentine Spirits", "id": "96d8-a3d3-fd28-e754", "hidden": false, "targetId": "ab8d-f0ed-8fad-120c", "type": "profile"},
+                          {"name": "Spirit", "id": "fdf6-1cac-67da-6b75", "hidden": false, "targetId": "78d3-886d-5fc6-bac4", "type": "rule"}
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Servants of the Cosmic Sky Upgrade",
+            "id": "beca-33a8-ebcd-ebaa",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Disciplined",
+                "id": "acc3-df98-5dba-4370",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "82aa-c849-b225-4566",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Disciplined", "id": "7b87-b6e0-dc19-5192", "hidden": false, "targetId": "0056-a41e-408e-1673", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Snakeman Cosmic Star Serpent Hero",
+        "id": "1a5e-d33f-9652-297f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "3964-43f2-3013-9e18", "hidden": false, "primary": true, "targetId": "hero unit"},
+          {"name": "Warrior Unit", "id": "30aa-ed61-0239-45dd", "hidden": false, "primary": false, "targetId": "warrior unit"}
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "entryLinks": [
+          {
+            "name": "Magic Weapons",
+            "id": "671b-eb1b-7bed-f25b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "04c0-42c1-8864-cf22",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [
+          {"name": "Hero", "id": "e42f-dd29-ed29-5c70", "hidden": false, "targetId": "566e-a1c6-9f62-3218", "type": "rule"},
+          {"name": "Stubborn", "id": "653a-3490-5b89-dbc4", "hidden": false, "targetId": "4440-376a-8093-35b8", "type": "rule"},
+          {"name": "Disciplined", "id": "f509-030b-5ee1-b428", "hidden": false, "targetId": "0056-a41e-408e-1673", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Armour",
+            "id": "7911-b6f6-1941-7eb5",
+            "collective": false,
+            "defaultSelectionEntryId": "bc38-d313-c6a6-e646",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "f626-19cc-7878-e879",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "f48c-e347-554f-79c3",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Snakeman Hero",
+                "id": "bc38-d313-c6a6-e646",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 86}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Snakeman Hero", "id": "b949-ec86-b079-1d37", "hidden": false, "targetId": "c58b-2209-30ae-335d", "type": "profile"}]
+              },
+              {
+                "name": "Snakeman Hero in Light Armour",
+                "id": "20f3-a7f9-64ff-ac91",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 96}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Snakeman Hero in Light Armour", "id": "377f-dc3c-c39e-1972", "hidden": false, "targetId": "68bd-cdfd-c9e7-f016", "type": "profile"}]
+              },
+              {
+                "name": "Snakeman Hero in Medium Armour",
+                "id": "04d1-ac6a-4342-2533",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "costs": [{"name": "pts", "typeId": "points", "value": 106}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Snakeman Hero in Medium Armour", "id": "e584-7e1f-66f9-cd77", "hidden": false, "targetId": "d0b0-cca6-ea08-f12e", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose Weapons",
+            "id": "25b0-1af3-0f72-575b",
+            "collective": false,
+            "defaultSelectionEntryId": "2c28-cb6f-c982-fb7d",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "eb3f-d766-5d6d-4f88",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "5c4f-38e7-23c8-f099",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Sword or Axe",
+                "id": "2c28-cb6f-c982-fb7d",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Sword or Axe", "id": "39f4-34ff-b5bb-8528", "hidden": false, "targetId": "2447-8f38-dd07-d089", "type": "profile"}]
+              },
+              {
+                "name": "Huge Swords",
+                "id": "2067-0ddd-d02b-658d",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Huge Sword", "id": "b6c5-f748-901f-aec7", "hidden": false, "targetId": "41c3-e1df-53b7-ed79", "type": "profile"}]
+              },
+              {
+                "name": "Big Axes",
+                "id": "b640-2656-7500-f5ef",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Big Axe", "id": "066c-4b4a-424c-2684", "hidden": false, "targetId": "e977-49ab-1207-d301", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Wound Upgrade",
+            "id": "9f4e-6bee-0d17-f2d9",
+            "collective": false,
+            "defaultSelectionEntryId": "7e9d-0bfc-2604-088e",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "e93a-af3f-205e-4291",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "01b9-b6e9-6506-c49b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wound",
+                "id": "7e9d-0bfc-2604-088e",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wound", "id": "3386-aaf4-3dcd-c46b", "hidden": false, "targetId": "8784-9f2f-1a5b-be21", "type": "rule"}]
+              },
+              {
+                "name": "Wound 2",
+                "id": "752c-04a9-3365-da57",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 12}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wound 2", "id": "7dfb-a4e0-6191-bdf2", "hidden": false, "targetId": "342b-a482-cb16-67e0", "type": "rule"}]
+              },
+              {
+                "name": "Wound 3",
+                "id": "d36b-a862-349e-1bc7",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 24}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wound 3", "id": "97ed-ea54-90f4-381e", "hidden": false, "targetId": "2724-2057-e745-23a3", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Tough Upgrade",
+            "id": "d1fc-2ed7-688e-cadd",
+            "collective": false,
+            "defaultSelectionEntryId": "e282-de6b-a5d0-2cdf",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "2531-2a08-ae1a-dfbb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "6969-5d06-ef9c-4b7d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Tough 2",
+                "id": "e282-de6b-a5d0-2cdf",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Tough 2", "id": "b35c-261c-c107-4dc6", "hidden": false, "targetId": "487f-dc82-bce1-c0f6", "type": "rule"}]
+              },
+              {
+                "name": "Tough 3",
+                "id": "de95-7a8b-59e1-0927",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Tough 3", "id": "006c-bb91-f0fc-4bd1", "hidden": false, "targetId": "3536-db5c-4e89-87d7", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Poisonous Fangs Upgrade",
+            "id": "49d5-ae4c-05a5-b2c2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Venomous",
+                "id": "716f-e0a2-a5dc-9912",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "5356-50ac-99e4-545b",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 5}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "4048-94c9-1aee-cef1", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Cosmic Destiny Upgrade",
+            "id": "1547-fdd8-72aa-4db7",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Divine Intervention",
+                "id": "d7d0-8e05-79f2-0430",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "67bb-7188-2c51-dffc",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 10}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Divine Intervention", "id": "7fee-e95d-265e-0f0e", "hidden": false, "targetId": "a447-d495-b7ab-1477", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Snakeman Python Guard",
+        "id": "7cba-b245-d058-46af",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "a254-b10e-25ef-b72f", "hidden": false, "primary": true, "targetId": "warrior unit"}],
+        "constraints": [
+          {
+            "id": "4884-24ee-0c18-e5b1",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Armour",
+            "id": "c999-922b-9ffd-2bc7",
+            "collective": false,
+            "defaultSelectionEntryId": "c08c-990d-c37c-7e8e",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "dd7e-3d88-ee48-da71",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "ac29-23e6-1496-8795",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Python Guard (no armour)",
+                "id": "c08c-990d-c37c-7e8e",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose 4 to 9",
+                    "id": "9b10-fe6b-b945-935b",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "constraints": [
+                      {
+                        "id": "80b1-5425-a1fa-431e",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "min",
+                        "value": 1
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Snakeman Python Guard Leader",
+                        "id": "8a35-2aed-0cc7-d099",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "5154-6dec-d39e-bb1c",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "3a67-ad34-b49b-cdf0",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 26}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Snakeman Python Guard Leader", "id": "8d91-2e3e-b7da-acbb", "hidden": false, "targetId": "1e5e-1b88-ffab-fe80", "type": "profile"},
+                          {"name": "Tough", "id": "c5c0-53ee-9d5d-5e81", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}
+                        ]
+                      },
+                      {
+                        "name": "Snakeman Python Guard",
+                        "id": "9e27-bffa-e77b-4cf9",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "7d53-7607-972e-f6c5",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 9
+                          },
+                          {
+                            "id": "2b24-a6fe-4ce1-259c",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 4
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 14}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Snakeman Python Guard", "id": "cb67-29a7-71a0-6a55", "hidden": false, "targetId": "ce1b-b82e-1623-33d4", "type": "profile"}]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Python Guard in Light Armour",
+                "id": "a112-5b56-ed27-fb46",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose 4 to 9",
+                    "id": "095c-b39c-1052-9553",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "constraints": [
+                      {
+                        "id": "5806-5dc8-db73-2491",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "min",
+                        "value": 1
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Snakeman Python Guard Leader in Light Armour",
+                        "id": "6e6c-e7f7-f4d6-3343",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "38a5-f8d7-60ea-6975",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "15d7-2d61-b19d-1e1d",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 28}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Snakeman Python Guard Leader in Light Armour", "id": "b44d-1e13-6159-7117", "hidden": false, "targetId": "5205-a582-789f-4805", "type": "profile"},
+                          {"name": "Tough", "id": "b888-1ff0-24ff-2871", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}
+                        ]
+                      },
+                      {
+                        "name": "Snakeman Python Guard",
+                        "id": "19de-dc65-2f75-3205",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "8f68-947d-8cf8-62ff",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 9
+                          },
+                          {
+                            "id": "f39c-2835-c06c-4f9a",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 4
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 16}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Snakeman Python Guard in Light Armour", "id": "02ee-c9fa-faad-e974", "hidden": false, "targetId": "f9ec-b7c4-80ef-b2bc", "type": "profile"}]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Choose Weapons",
+            "id": "6efe-4c7c-1e62-28c6",
+            "collective": false,
+            "defaultSelectionEntryId": "c34b-5aaf-e17f-daab",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "188f-5fc3-8c4e-cd14",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "0b42-1859-655f-0abb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Long Spears",
+                "id": "b855-e8c5-e478-639f",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Long Spear", "id": "8323-bf31-f7c4-8cda", "hidden": false, "targetId": "8c77-0a0d-0097-c499", "type": "profile"}]
+              },
+              {
+                "name": "Sword or Axe",
+                "id": "c34b-5aaf-e17f-daab",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Sword or Axe", "id": "bd79-fe6b-0d30-1239", "hidden": false, "targetId": "2447-8f38-dd07-d089", "type": "profile"}]
+              },
+              {
+                "name": "Big Axes",
+                "id": "6756-bc6d-c1b8-3435",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Big Axe", "id": "4b27-bec0-ad05-b65d", "hidden": false, "targetId": "e977-49ab-1207-d301", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Cold-Eyed Upgrade",
+            "id": "d999-43c4-4465-0701",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Stubborn",
+                "id": "6cd5-f6eb-1c54-455d",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "3af8-39e1-5898-eba8",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Stubborn", "id": "c10a-c998-6a57-abc8", "hidden": false, "targetId": "4440-376a-8093-35b8", "type": "rule"}],
+                "modifiers": [
+                  {
+                    "field": "points",
+                    "type": "increment",
+                    "value": 2,
+                    "repeats": [
+                      {
+                        "childId": "model",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "repeats": 1,
+                        "roundUp": false,
+                        "scope": "7cba-b245-d058-46af",
+                        "shared": true,
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Snakeman Warriors",
+        "id": "37b6-f4e6-0e5d-6d14",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "e4d3-1c86-8538-a954", "hidden": false, "primary": true, "targetId": "warrior unit"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Armour",
+            "id": "26f6-4acf-126c-e1cc",
+            "collective": false,
+            "defaultSelectionEntryId": "21f7-31f2-43af-6537",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "24c5-f2c5-53ee-1776",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "1990-0814-4e64-7317",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Snakeman Warriors (no armour)",
+                "id": "21f7-31f2-43af-6537",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose 4 to 9",
+                    "id": "2dad-6043-7f1f-ebac",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "constraints": [
+                      {
+                        "id": "5713-0aa3-4a18-1116",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "min",
+                        "value": 1
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Snakeman Warrior Leader",
+                        "id": "1e6d-6635-cb51-9e37",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "d99c-24a2-c123-57b6",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "89d1-52e9-dca9-a257",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 24}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Snakeman Warrior Leader", "id": "e8ab-fa49-878c-2f74", "hidden": false, "targetId": "a8e5-1a85-09e2-2b05", "type": "profile"},
+                          {"name": "Tough", "id": "d363-14c2-354a-61a3", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}
+                        ]
+                      },
+                      {
+                        "name": "Snakeman Warriors",
+                        "id": "d673-810d-9059-6534",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "ba1d-1fe5-3cb5-330a",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 9
+                          },
+                          {
+                            "id": "631d-a765-2ff4-a7e5",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 4
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 12}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Snakeman Warrior", "id": "ccb5-aed4-4621-30c8", "hidden": false, "targetId": "450d-624e-23cb-b870", "type": "profile"}]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Snakeman Warriors in Light Armour",
+                "id": "3b7a-02b0-e81c-58ba",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "selectionEntryGroups": [
+                  {
+                    "name": "Choose 4 to 9",
+                    "id": "8f6e-461d-0a00-4691",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "constraints": [
+                      {
+                        "id": "9d3f-3574-aa79-4ef4",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "min",
+                        "value": 1
+                      }
+                    ],
+                    "selectionEntries": [
+                      {
+                        "name": "Snakeman Warrior Leader in Light Armour",
+                        "id": "5801-c68a-e08b-4793",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "c9f5-a830-b1d0-46db",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 1
+                          },
+                          {
+                            "id": "45fe-e11e-8205-4731",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 1
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 26}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [
+                          {"name": "Snakeman Warrior Leader in Light Armour", "id": "d3a7-f3cf-df00-ede4", "hidden": false, "targetId": "8908-1855-c14f-1b51", "type": "profile"},
+                          {"name": "Tough", "id": "e68a-d591-26ac-0f66", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}
+                        ]
+                      },
+                      {
+                        "name": "Snakeman Warriors in Light Armour",
+                        "id": "510f-aef8-abdb-3249",
+                        "collective": false,
+                        "hidden": false,
+                        "import": true,
+                        "type": "model",
+                        "constraints": [
+                          {
+                            "id": "4f1a-2902-8cb8-b0b6",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "max",
+                            "value": 9
+                          },
+                          {
+                            "id": "b970-2f3c-c3c5-a44c",
+                            "field": "selections",
+                            "includeChildForces": false,
+                            "includeChildSelections": false,
+                            "percentValue": false,
+                            "scope": "parent",
+                            "shared": true,
+                            "type": "min",
+                            "value": 4
+                          }
+                        ],
+                        "costs": [{"name": "pts", "typeId": "points", "value": 14}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                        "infoLinks": [{"name": "Snakeman Warrior in Light Armour", "id": "5fbd-99b4-7aff-1238", "hidden": false, "targetId": "c487-e696-b8ce-b0bc", "type": "profile"}]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Choose Weapons",
+            "id": "27a6-27e3-5650-e61e",
+            "collective": false,
+            "defaultSelectionEntryId": "f120-e673-346b-6ff2",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "5357-e366-d0dd-8f97",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "6dbd-2556-d6e3-78d3",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Long Spears",
+                "id": "0663-86e9-0d79-d281",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Long Spear", "id": "1efb-64a5-30f1-32c3", "hidden": false, "targetId": "8c77-0a0d-0097-c499", "type": "profile"}]
+              },
+              {
+                "name": "Sword or Axe",
+                "id": "f120-e673-346b-6ff2",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Sword or Axe", "id": "484d-c528-5712-b58e", "hidden": false, "targetId": "2447-8f38-dd07-d089", "type": "profile"}]
+              },
+              {
+                "name": "Big Axes",
+                "id": "16e9-94a4-fd6b-dcda",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Big Axe", "id": "6432-3cec-7e61-21b1", "hidden": false, "targetId": "e977-49ab-1207-d301", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Snakeman Viper Warriors",
+        "id": "9033-ab9b-3a31-06fd",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "1d47-a883-db09-12dd", "hidden": false, "primary": true, "targetId": "warrior unit"}],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [{"name": "Bow", "id": "5a4f-9f38-577e-4fe5", "hidden": false, "targetId": "95e1-d9f2-8182-5835", "type": "profile"}],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Weapons",
+            "id": "9166-ebc7-0d18-c9ba",
+            "collective": false,
+            "defaultSelectionEntryId": "a40e-4e95-5e63-f805",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "f0d9-bf00-f0ef-90ad",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "09a7-a981-9321-e0f2",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Sword or Axe",
+                "id": "6e08-66f7-1632-8d05",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Sword or Axe", "id": "6950-7e38-f467-e527", "hidden": false, "targetId": "2447-8f38-dd07-d089", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "points",
+                    "type": "increment",
+                    "value": 1,
+                    "repeats": [
+                      {
+                        "childId": "model",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "repeats": 1,
+                        "roundUp": false,
+                        "scope": "9033-ab9b-3a31-06fd",
+                        "shared": true,
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Daggers",
+                "id": "a40e-4e95-5e63-f805",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Dagger", "id": "0740-2dff-d219-9638", "hidden": false, "targetId": "5514-08ba-d190-bf84", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Poisonous Arrows Upgrade",
+            "id": "75d6-d5ab-3e69-654e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Venomous",
+                "id": "7955-79d2-4db7-c1d6",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "2242-6d74-7992-a0a2",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 5}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "7135-1f5d-71a8-c19d", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose 4 to 9",
+            "id": "b243-fdfc-a4cb-2054",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "67de-9872-9082-a02c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Snakeman Viper Warrior Leader",
+                "id": "cbce-cefe-b04c-9ac7",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "8bc8-7f08-f9d3-4b5d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "8986-32df-39ca-484d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 25}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Snakeman Viper Warrior Leader", "id": "e07d-a0f9-2b9b-cb8e", "hidden": false, "targetId": "67c4-4e5d-227d-d26e", "type": "profile"},
+                  {"name": "Tough", "id": "ce52-e43a-d8c3-0170", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"}
+                ]
+              },
+              {
+                "name": "Snakeman Warriors",
+                "id": "2405-7c61-8f31-e8db",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "f389-bcdf-f0c9-8089",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 9
+                  },
+                  {
+                    "id": "c686-ceee-f0b5-90a8",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 4
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 13}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Snakeman Viper Warrior", "id": "1c76-91ac-14ac-5694", "hidden": false, "targetId": "2ff7-a261-cc2f-1192", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Snakeman Cobra Guard",
+        "id": "995b-88e6-92aa-8220",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "5d1b-e12a-64b5-678a", "hidden": false, "primary": true, "targetId": "warrior unit"}],
+        "constraints": [
+          {
+            "id": "fbc2-6757-f7bf-22f1",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Crossbow", "id": "2424-9efe-11d5-23ee", "hidden": false, "targetId": "d39c-4b92-3b2f-a1dc", "type": "profile"},
+          {"name": "Tough 1", "id": "adb6-70ea-3036-0746", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"},
+          {"name": "Fire Order to Shoot", "id": "b095-20f6-db74-1431", "hidden": false, "targetId": "d2a3-26b0-f825-e454", "type": "rule"}
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Weapons",
+            "id": "d44a-cdaa-3ad0-e087",
+            "collective": false,
+            "defaultSelectionEntryId": "9692-2f72-d29c-cf6e",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "26ef-7cd6-956c-7222",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "e597-1dd3-96ae-0629",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Sword or Axe",
+                "id": "93be-8673-66fe-db05",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Sword or Axe", "id": "4196-aed1-0cb9-d308", "hidden": false, "targetId": "2447-8f38-dd07-d089", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "points",
+                    "type": "increment",
+                    "value": 1,
+                    "repeats": [
+                      {
+                        "childId": "model",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "repeats": 1,
+                        "roundUp": false,
+                        "scope": "995b-88e6-92aa-8220",
+                        "shared": true,
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Daggers",
+                "id": "9692-2f72-d29c-cf6e",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Dagger", "id": "eb38-e115-d488-2bbc", "hidden": false, "targetId": "5514-08ba-d190-bf84", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Poisonous Quarrels Upgrade",
+            "id": "4f07-8793-08a1-600a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Venomous",
+                "id": "fa15-897a-740c-0942",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "a2bf-5cb4-f6df-5a60",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 5}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "0d11-caea-50f8-e347", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Stubborn Upgrade",
+            "id": "64e3-9941-7932-10f8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Stubborn",
+                "id": "6c19-9ed5-1a1a-dc7a",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "c7e3-6ddf-8edf-0b16",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Stubborn", "id": "4742-233c-a02a-26bc", "hidden": false, "targetId": "4440-376a-8093-35b8", "type": "rule"}],
+                "modifiers": [
+                  {
+                    "field": "points",
+                    "type": "increment",
+                    "value": 2,
+                    "repeats": [
+                      {
+                        "childId": "model",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "repeats": 1,
+                        "roundUp": false,
+                        "scope": "995b-88e6-92aa-8220",
+                        "shared": true,
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Choose 4 to 9",
+            "id": "26cd-7f7c-6efc-ef34",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "f92c-89b3-a76c-ed57",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Snakeman Cobra Guard",
+                "id": "122e-0a90-8d77-e3e3",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "a877-7e9c-a400-5144",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 9
+                  },
+                  {
+                    "id": "c3d8-5ae8-f98b-a4cf",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 4
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 14}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Snakemen Cobra Guard", "id": "dea8-7c22-c9d5-d710", "hidden": false, "targetId": "e2cd-774e-9678-6a11", "type": "profile"}]
+              },
+              {
+                "name": "Snakeman Cobra Guard Leader",
+                "id": "02fe-957c-8faa-d169",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "19bf-312f-d42f-dfcf",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 1
+                  },
+                  {
+                    "id": "978f-186a-1e16-60d4",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 31}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Snakemen Cobra Guard Leader", "id": "a8d4-84c9-5389-ece2", "hidden": false, "targetId": "0de9-1e2e-92bb-de08", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hemata Elder Guardian",
+        "id": "00aa-31c0-56fc-f219",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "9973-af89-79b8-5c63", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "constraints": [
+          {
+            "id": "e6fd-11ea-f0fa-baa4",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": " order dice", "typeId": "orderDice", "value": 1}, {"name": "pts", "typeId": "points", "value": 0}],
+        "infoLinks": [
+          {"name": "Hemata Guardian", "id": "f031-9409-7340-8d28", "hidden": false, "targetId": "93b2-0a32-88c5-9011", "type": "profile"},
+          {"name": "Choking", "id": "dbd8-db7b-3ba9-bba5", "hidden": false, "targetId": "7ff2-1650-fc0e-5a3a", "type": "rule"},
+          {"name": "Large", "id": "bcb1-cd8c-6597-af53", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Venomous", "id": "b65d-caf7-512e-622e", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}
+        ],
+        "modifiers": [{"field": "points", "type": "increment", "value": 5}],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose 1 to 3",
+            "id": "ea09-f83c-6b88-0356",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "1288-d467-ec3f-ce01",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Hemata Guardian",
+                "id": "d8d7-de9f-9c0b-0740",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "f064-12a3-82b1-bcee",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  },
+                  {
+                    "id": "d074-f770-bf6a-0967",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 36}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Hemata Guardian", "id": "c1bf-3443-b9a6-2e50", "hidden": false, "targetId": "93b2-0a32-88c5-9011", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Make one Hemata Guardian a Leader",
+            "id": "c097-f0fa-8d60-7c70",
+            "collective": false,
+            "hidden": true,
+            "import": true,
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": false,
+                "conditions": [
+                  {
+                    "childId": "model",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "00aa-31c0-56fc-f219",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 3
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Make one Guardian a Leader in a unit of three.",
+                "id": "9c83-f8e0-b66d-b3eb",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "b2a2-c0c4-f6bc-3d93",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 12}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Hemata Guardian Leader", "id": "7a94-c511-25f2-f290", "hidden": false, "targetId": "09b7-6f70-46ce-f64b", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gorgon Elder Serpent",
+        "id": "73c2-ab60-7aef-87f4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "df7b-a7ec-aaf3-9ee3", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "constraints": [
+          {
+            "id": "6b28-0983-05bd-82b7",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "selectionEntries": [
+          {
+            "name": "Gorgon with Bow",
+            "id": "544d-1df9-2748-c04b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "78be-6646-9e09-d8c3",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "ad75-d91e-3fb7-c585",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "points", "value": 62}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+            "infoLinks": [
+              {"name": "Gorgon", "id": "dbde-0d23-b619-3158", "hidden": false, "targetId": "c4ef-78fa-e9cf-a2e8", "type": "profile"},
+              {"name": "Large", "id": "89f5-ba7d-ab24-fc7a", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+              {"name": "Bow", "id": "a890-c685-afd6-b5e7", "hidden": false, "targetId": "95e1-d9f2-8182-5835", "type": "profile"}
+            ]
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Baleful Glare Upgrade",
+            "id": "196e-1df6-f721-bac4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Baleful Glare (can shoot bow or use glare, but not both at same time)",
+                "id": "8ba4-8e74-e61f-b0bd",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "cd3f-82de-88de-83d2",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 20}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Baleful Glare", "id": "324a-190d-139f-952d", "hidden": false, "targetId": "9855-31c9-3745-714d", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Poisonous Arrows Upgrade",
+            "id": "395e-981a-7ad6-3ba4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Venomous (bow hits only)",
+                "id": "4a5d-3fac-7ff6-0362",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "f92d-bfc2-8678-2b62",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 5}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "2624-5bcd-40f3-9c58", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Wound Upgrade",
+            "id": "7747-ef60-d38a-b705",
+            "collective": false,
+            "defaultSelectionEntryId": "3f01-b047-f2f3-ae9c",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "d809-c1db-6564-e417",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "083d-32fa-c3bb-69a5",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Wound",
+                "id": "3f01-b047-f2f3-ae9c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wound", "id": "6dd4-e45d-5d33-6e1b", "hidden": false, "targetId": "8784-9f2f-1a5b-be21", "type": "rule"}]
+              },
+              {
+                "name": "Wound 2",
+                "id": "4103-e8fc-92b3-f39a",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 16}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Wound 2", "id": "574e-adca-5082-0c4d", "hidden": false, "targetId": "342b-a482-cb16-67e0", "type": "rule"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Saurian Slithering Beast Pack",
+        "id": "c1d8-f242-88b4-7ce4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "50fc-7522-b9fa-d20a", "hidden": false, "primary": true, "targetId": "c061-a0f2-e7d4-a23b"},
+          {"name": "Warrior Unit", "id": "8c69-aab2-d0b2-cd51", "hidden": false, "primary": false, "targetId": "warrior unit"}
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "infoLinks": [
+          {"name": "Rapid Sprint", "id": "5b01-0241-b541-562a", "hidden": false, "targetId": "1e90-54e2-dd77-c4e3", "type": "rule"},
+          {"name": "Tough 1", "id": "e6f9-b473-75c5-9cf8", "hidden": false, "targetId": "b9e1-fea5-9095-b1cf", "type": "rule"},
+          {"name": "Savage", "id": "e548-2e9b-db4f-402c", "hidden": false, "targetId": "c3b6-8870-61d6-7aaf", "type": "rule"}
+        ],
+        "selectionEntries": [
+          {
+            "name": "Pack Master",
+            "id": "3374-ca12-4ecc-e466",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "ff1d-e93f-e5cf-897d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "c8eb-f424-0047-928e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+            "selectionEntryGroups": [
+              {
+                "name": "Pack Master",
+                "id": "46be-ca2c-a876-bc92",
+                "collective": false,
+                "defaultSelectionEntryId": "dee4-ed99-1c4f-dbd7",
+                "hidden": false,
+                "import": true,
+                "constraints": [
+                  {
+                    "id": "b4b3-0ec9-2095-e1d9",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  },
+                  {
+                    "id": "ea22-16c4-e8ea-0746",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 1
+                  }
+                ],
+                "selectionEntries": [
+                  {
+                    "name": "Snakeman Pack Master (no armour)",
+                    "id": "dee4-ed99-1c4f-dbd7",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "type": "upgrade",
+                    "constraints": [
+                      {
+                        "id": "fbbb-433d-f92a-5e10",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "max",
+                        "value": 1
+                      }
+                    ],
+                    "costs": [{"name": "pts", "typeId": "points", "value": 26}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                    "infoLinks": [{"name": "Snakeman Pack Master", "id": "2b1a-c676-7c9c-7c64", "hidden": false, "targetId": "ae15-5d71-d1f1-6cd9", "type": "profile"}]
+                  },
+                  {
+                    "name": "Snakeman Pack Master in Light Armour",
+                    "id": "4eea-e30c-bfd4-74a9",
+                    "collective": false,
+                    "hidden": false,
+                    "import": true,
+                    "type": "upgrade",
+                    "constraints": [
+                      {
+                        "id": "23f2-5b45-1ce5-0bf9",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "parent",
+                        "shared": true,
+                        "type": "max",
+                        "value": 1
+                      }
+                    ],
+                    "costs": [{"name": "pts", "typeId": "points", "value": 28}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                    "infoLinks": [{"name": "Snakeman Pack Master in Light Armour", "id": "070d-b45c-a71a-4fb0", "hidden": false, "targetId": "5cbe-12a3-d570-ea10", "type": "profile"}]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose Packmaster Weapon",
+            "id": "d3e8-67f8-8498-d766",
+            "collective": false,
+            "defaultSelectionEntryId": "fdb0-f262-3a4b-c9be",
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "df1f-ec14-a0df-75b3",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "1346-f8a7-411f-2744",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Sword or Axe",
+                "id": "fdb0-f262-3a4b-c9be",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Sword or Axe", "id": "a25c-541b-79a7-b2ef", "hidden": false, "targetId": "2447-8f38-dd07-d089", "type": "profile"}]
+              },
+              {
+                "name": "Spear",
+                "id": "159c-eb2e-7496-a9e3",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Spear", "id": "cfbf-221c-4f6a-c907", "hidden": false, "targetId": "c79a-48d1-9b48-2c68", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Packmaster Bow Upgrade",
+            "id": "baea-2b2d-5f90-7ebb",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "selectionEntries": [
+              {
+                "name": "Bow",
+                "id": "8e27-5d6a-b89d-d9a2",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "cbd7-70b3-8791-c3a7",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 2}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Bow", "id": "d486-105c-2d06-bc9a", "hidden": false, "targetId": "95e1-d9f2-8182-5835", "type": "profile"}]
+              }
+            ]
+          },
+          {
+            "name": "Beast Attack Upgrade",
+            "id": "2422-f8f8-fde2-a893",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "7a18-4ace-6354-f8f4",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Choking",
+                "id": "b3ff-d6bc-92e2-483c",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Choking", "id": "f5fb-8095-222f-ef43", "hidden": false, "targetId": "7ff2-1650-fc0e-5a3a", "type": "rule"}],
+                "modifiers": [
+                  {
+                    "field": "points",
+                    "type": "increment",
+                    "value": 1,
+                    "repeats": [
+                      {
+                        "childId": "model",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": true,
+                        "percentValue": false,
+                        "repeats": 1,
+                        "roundUp": false,
+                        "scope": "c1d8-f242-88b4-7ce4",
+                        "shared": true,
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Venomous",
+                "id": "df82-c8e4-244f-8bde",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "costs": [{"name": "pts", "typeId": "points", "value": 5}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Venomous", "id": "29e1-cf36-33e8-005a", "hidden": false, "targetId": "53b9-a3e9-0e9f-2d77", "type": "rule"}]
+              }
+            ]
+          },
+          {
+            "name": "Choose 4 to 9",
+            "id": "db8f-702b-c5bc-a261",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "345f-fcb9-4c4a-c1a9",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Saurian Beasts",
+                "id": "280a-a50f-31ed-8e41",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "b4a4-faea-caa8-520d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 9
+                  },
+                  {
+                    "id": "9c3e-17bb-a12d-383d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 4
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 17}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [{"name": "Saurian Beast", "id": "0b36-146b-3731-902c", "hidden": false, "targetId": "0ee0-9140-215b-34fb", "type": "profile"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pterosaurs",
+        "id": "19f9-b7db-3799-e42a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "d876-4ce4-eccc-f8a6", "hidden": false, "primary": true, "targetId": "c061-a0f2-e7d4-a23b"}],
+        "constraints": [
+          {
+            "id": "8756-422d-cf47-3a13",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose 3 to 5",
+            "id": "a45e-7dca-5859-eaf9",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "30b5-f771-9d49-9853",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Pterosaurs",
+                "id": "7b5a-1504-b324-7214",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "model",
+                "constraints": [
+                  {
+                    "id": "2a8c-82dd-52ee-16e0",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 3
+                  },
+                  {
+                    "id": "ddfb-aac7-e036-514e",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 5
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 43}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Pterosaur", "id": "a95f-046b-2d11-f651", "hidden": false, "targetId": "2b7d-462f-ffbc-2260", "type": "profile"},
+                  {"name": "Flies", "id": "4118-548e-a1bc-b1b8", "hidden": false, "targetId": "1d07-520b-6918-03fd", "type": "rule"},
+                  {"name": "Fast 10", "id": "3173-7582-6cbf-2032", "hidden": false, "targetId": "0034-82ae-f695-d446", "type": "rule"},
+                  {"name": "Surly", "id": "0d4d-92b6-d83f-8d9f", "hidden": false, "targetId": "8a4d-4dea-f005-ddc5", "type": "rule"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Giant Horned Saurian",
+        "id": "242e-666d-78d7-0b00",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "0be5-79b6-9460-7c39", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"},
+          {"name": "Snakeman Monstrosity", "id": "35f1-327b-9093-bf8d", "hidden": false, "primary": false, "targetId": "9fb1-47aa-24d5-0f85"}
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Large", "id": "dbda-3c99-5969-0935", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "869e-2989-07e2-957f", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Surly", "id": "3df5-c7ae-f496-83b9", "hidden": false, "targetId": "8a4d-4dea-f005-ddc5", "type": "rule"},
+          {"name": "Irresistible Charge", "id": "78bb-cffd-100a-a45b", "hidden": false, "targetId": "86b2-7051-4b5c-d149", "type": "rule"},
+          {"name": "Stampede", "id": "5518-3d05-d7d4-0513", "hidden": false, "targetId": "45b3-c028-8c8c-43ae", "type": "rule"},
+          {"name": "MoD2", "id": "9165-1bb0-e83c-2f18", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntries": [
+          {
+            "name": "Giant Horned Saurian",
+            "id": "6ec1-2121-1b3f-48a6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "29c4-1c8b-9e1e-efeb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "2d3a-c7fc-8d46-f29c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "points", "value": 122}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+            "infoLinks": [{"name": "Giant Horned Saurian", "id": "f63e-ccf5-758e-64ad", "hidden": false, "targetId": "b74d-5550-565f-8794", "type": "profile"}]
+          }
+        ]
+      },
+      {
+        "name": "Raptors",
+        "id": "c917-12a1-c769-10e1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "a1e8-455d-2f92-b62f", "hidden": false, "primary": true, "targetId": "ad3c-fc35-4ea7-7a70"}],
+        "constraints": [
+          {
+            "id": "24e2-6e19-ebdd-1b12",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "force",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 1}],
+        "selectionEntryGroups": [
+          {
+            "name": "Choose 3 to 5",
+            "id": "9e08-ddac-55cb-fabe",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "constraints": [
+              {
+                "id": "680f-cbfe-6d03-9a81",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Raptors",
+                "id": "b935-ff4c-6ca9-2643",
+                "collective": false,
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "10a7-f5ff-27b3-e9bc",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "max",
+                    "value": 5
+                  },
+                  {
+                    "id": "438a-9db2-ec7d-f47e",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "min",
+                    "value": 3
+                  }
+                ],
+                "costs": [{"name": "pts", "typeId": "points", "value": 31}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+                "infoLinks": [
+                  {"name": "Raptors", "id": "2ccf-7041-bf12-7d94", "hidden": false, "targetId": "f291-ba80-8ec1-53a2", "type": "profile"},
+                  {"name": "Large", "id": "9768-1ee5-9351-794a", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+                  {"name": "Fast 8", "id": "8469-3bdc-09d1-1142", "hidden": false, "targetId": "105b-036d-9a8f-edac", "type": "rule"},
+                  {"name": "Surly", "id": "56fb-256a-5af6-c7b4", "hidden": false, "targetId": "8a4d-4dea-f005-ddc5", "type": "rule"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sail Back Saurian",
+        "id": "5ce8-543c-1a85-1343",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "b096-0c8f-a35f-5ccf", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"},
+          {"name": "Snakeman Monstrosity", "id": "a6c5-428c-f1d7-7fa0", "hidden": false, "primary": false, "targetId": "9fb1-47aa-24d5-0f85"}
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Large", "id": "d72d-8d67-0e57-6cd4", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "0f09-36d0-7d5a-a903", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Surly", "id": "6c60-287b-43af-4d7a", "hidden": false, "targetId": "8a4d-4dea-f005-ddc5", "type": "rule"},
+          {"name": "Fast 6", "id": "f646-d117-c2b9-2d15", "hidden": false, "targetId": "7753-3806-9cf1-0a6c", "type": "rule"},
+          {"name": "MoD2", "id": "7c51-7491-d876-edcc", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntries": [
+          {
+            "name": "Sail Back Saurian",
+            "id": "070e-2139-cdcf-e0b9",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "b381-6d1a-34ad-a39e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "d765-4318-be9f-82bd",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "points", "value": 126}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+            "infoLinks": [{"name": "Sail Back Saurian", "id": "57de-b75a-3d4e-e663", "hidden": false, "targetId": "6a7b-c37f-621d-3470", "type": "profile"}]
+          }
+        ]
+      },
+      {
+        "name": "Tyrannosaur",
+        "id": "18a2-7a44-1f56-0b9b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8204-0b38-0962-8bc1", "hidden": false, "primary": true, "targetId": "8efa-298b-b165-ef8b"},
+          {"name": "Snakeman Monstrosity", "id": "0ece-6daa-e74a-3499", "hidden": false, "primary": false, "targetId": "9fb1-47aa-24d5-0f85"}
+        ],
+        "costs": [{"name": "pts", "typeId": "points", "value": 0}, {"name": " order dice", "typeId": "orderDice", "value": 2}],
+        "infoLinks": [
+          {"name": "Large", "id": "5caf-c39f-5f2c-f250", "hidden": false, "targetId": "7f3d-fbf8-9f49-2031", "type": "rule"},
+          {"name": "Dread", "id": "8e6b-d572-c23a-ca79", "hidden": false, "targetId": "0bf9-a070-b56b-ca4e", "type": "rule"},
+          {"name": "Terror", "id": "f536-e76e-cfbd-e7d0", "hidden": false, "targetId": "583a-fa53-11ff-7b40", "type": "rule"},
+          {"name": "Surly", "id": "a87a-a930-b1c5-7b3b", "hidden": false, "targetId": "8a4d-4dea-f005-ddc5", "type": "rule"},
+          {"name": "Irresistible Charge", "id": "0e22-29d3-5f38-0c47", "hidden": false, "targetId": "86b2-7051-4b5c-d149", "type": "rule"},
+          {"name": "MoD2", "id": "2c20-1571-4c29-6fb1", "hidden": false, "targetId": "5da1-1bfa-9b8d-6b82", "type": "rule"}
+        ],
+        "selectionEntries": [
+          {
+            "name": "Tyrannosaur",
+            "id": "341c-6bf1-81aa-d10e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "4cc9-ef0e-fbfb-a6b5",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "311e-68af-df51-7433",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": "pts", "typeId": "points", "value": 188}, {"name": " order dice", "typeId": "orderDice", "value": 0}],
+            "infoLinks": [{"name": "Tyrannosaur", "id": "cfb9-0f5f-3195-c116", "hidden": false, "targetId": "6c2e-9aa4-1b3b-126e", "type": "profile"}]
+          }
+        ]
+      }
+    ]
+  }
+}
