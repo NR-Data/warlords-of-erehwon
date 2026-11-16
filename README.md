@@ -1,50 +1,27 @@
-Warlords of Erehwon
-===================
-Files originally created by the3dwargamer@outlook.com.  
+# Warlords of Erehwon data
 
-Please report any issues here: https://github.com/BSData/warlords-of-erehwon/issues
+Army list data files for Warlords of Erehwon.
 
-16/02/20 - Fixed small issues with Reptilians and Monsters. Fixed point propagation issues for Reptilians, Monsters and Dwarves.
+> **Community rehost.** These files were written by the community contributors listed below and were previously published at `github.com/BSData/warlords-of-erehwon`, which is no longer online. This copy keeps them available and open to updates.
+>
+> They are not made, maintained or endorsed by NewRecruit. Nobody here is affiliated with or endorsed by the publisher of Warlords of Erehwon. All game names and trademarks belong to their respective owners. You still need the official rules to play.
 
-12/18/20 - First version of Ratters added.
+## Is this maintained?
 
-8/19/19 - Order dice have been added.
+It is open for updates, not archived. It is kept up by whoever contributes to it, so check the commit history to see how current it is. Last data change before the rehost: 2020-02-24.
 
-8/15/19 - Skill descriptions updated to be complete.
+## How to update it
 
-8/14/19 - Reviewed Undead.
+- **Pull request:** fork this repository, make your changes and open a pull request.
+- **Write access:** if you want to maintain this game, ask on the NewRecruit Discord: https://discord.gg/cCtqGbugwb
 
-2/19/19 - Beta version is complete, all army lists are now available.  For the next few weeks I will be working on bug fixes and format fixes to make the selections better and to add spell selections.  Right now there is just a placeholder for spells to account for the points you spend, but it doesn't actually let you pick the specific spell.
+## File format
 
+The files are JSON, converted on 2026-11-16 from the original BattleScribe XML (`.cat`/`.gst`). The XML versions are in the git history before that commit.
 
+## Authors
 
-#### Contents ####
+From the git history of the data files:
 
-* [Overview][]
-* [Links][]
-
-## Overview ##
-[Overview]: #overview
-
-__What's this?__
-
-BSData organisation created this project. It's GitHub repository of datafiles.
-Maintained by community, in no way endorsed by BattleScribe. If you want
-to develop - cool! We need you! Take a look at [Getting Started wiki][]
-
-__Okay, nice project. Is it actually working?__ _I just want those files..._
-
-Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][]
-
-
-## Links ##
-[Links]: #links
-
-* [BattleScribe homepage][]
-* [BattleScribe Data on Appspot][]
-* [Getting Started wiki][]
-
-
-[BattleScribe homepage]: http://www.battlescribe.net/
-[BattleScribe Data on Appspot]: http://battlescribedata.appspot.com/#/repos
-[Getting Started wiki]: https://github.com/BSData/catalogue-development/wiki/Getting-Started#contributing
+- LeadAddict
+- The3DWargamer
